@@ -7,7 +7,7 @@ Projects done with my SNU colleagues in the purpose to study DMA (Data Managemen
 **PROJECT #3** - *Document search engine & Classification and Clustering*  
 
 ## Project Info
-### Project #1
+### Project #1 - Conceptual DB design & DB implementation
 Website A is a platform where customers write reviews about businesses. The website's customers (users) can leave reviews on various types of businesses they have used and interact with other customers by sharing reviews. This project aims to create a visualization of the ER diagram, and implementation of the database used by webite A. The project is divided into two main parts.  
 
 **PART I** - *ER diagram Visulization*  
@@ -37,7 +37,7 @@ PART II aims to design a suitable database schema for the data of website A and 
 
 > **_(R2-4)_** Foreign key constraints should be applied to the database schema to reflect the relationships between tables.
 
-### Project #2
+### Project #2 - DB Mining & Recommendation System
 This project aims to build a database using the provided additional data, following the approach of Project #1. It further aims to implement DB mining and an Automated Recommendation System using the constructed database. The project is divided into three main parts and requires implementation using Python and MySQL.  
 
 **PART I** - *Decision Tree*  
