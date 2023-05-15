@@ -32,3 +32,13 @@ PART I aims to create a decision tree based on the criteria for selecting VIP us
 > - max_depth: 4
 > - Feature names: user_yelping_since_year, user_review_count, user_fans, user_votes_funny, user_votes_useful, user_votes_cool, user_average_stars, user_tip_counts
 > - Class names: normal, BEST
+
+> **_(R1-4)_** Create a decision tree for a different VIP selection criteria than the one generated in R1-3, and compare it with the decision tree created in R1-3. You can choose to add or remove additional input features other than those used in R1-3, or modify other attributes of the decision tree. The report should include the following information:
+> - Input features used in the decision tree
+> - Node impurity criterion
+> - Attributes provided to sklearn.tree.DecisionTreeClassifier (e.g., max_depth=3)
+
+### <ins>PART II. Association Analysis</ins>
+In Part II, the goal is to perform association analysis among the attributes of website A. In R2-1 and R2-2, the objective is to execute queries using mysql-connector-python for the purpose of generating views for association analysis and recommendation systems. In R2-3, the goal is to return the results of a horizontal table from the view created in R2-2 for association analysis. In R2-4, the objective is to perform association analysis using the mlxtend library in Python and output the results.
+
+> **_(R2-1)_**
