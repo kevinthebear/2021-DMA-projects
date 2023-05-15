@@ -1,0 +1,4642 @@
+user,category,rating
+3,American (New),19
+3,Wine Bars,6
+3,Vegetarian,1
+3,Soul Food,6
+3,Sushi Bars,2
+3,Latin American,3
+3,Vegan,1
+3,Pubs,15
+3,British,3
+3,Irish,3
+3,Gastropubs,3
+3,Breweries,12
+3,Southern,3
+3,Scandinavian,3
+352,American (New),25
+352,Wine Bars,11
+352,Soul Food,9
+352,Sushi Bars,5
+352,Latin American,3
+352,Vegan,3
+352,Pubs,19
+352,British,6
+352,Climbing,3
+352,Zoos,3
+352,Irish,9
+352,Gastropubs,1
+352,Breweries,7
+352,African,3
+352,Southern,3
+352,Airports,3
+352,Ethiopian,3
+535,American (New),27
+535,Wine Bars,12
+535,Vegetarian,6
+535,Soul Food,3
+535,Sushi Bars,10
+535,Vegan,3
+535,Pubs,13
+535,British,6
+535,Szechuan,3
+535,Irish,4
+535,Breweries,13
+535,Southern,3
+535,Airports,1
+535,Fondue,3
+659,American (New),25
+659,Wine Bars,3
+659,Vegetarian,3
+659,Soul Food,3
+659,Latin American,3
+659,Pubs,10
+659,British,3
+659,Climbing,3
+659,Irish,3
+659,Breweries,3
+659,Southern,3
+659,Airports,1
+876,American (New),13
+876,German,1
+876,Wine Bars,3
+876,Vegetarian,1
+876,Soul Food,6
+876,Sushi Bars,3
+876,Pubs,7
+876,Irish,3
+876,Breweries,9
+876,Southern,6
+959,American (New),41
+959,Wine Bars,12
+959,Vegetarian,6
+959,Soul Food,1
+959,Sushi Bars,8
+959,Latin American,3
+959,Vegan,1
+959,Pubs,3
+959,Botanical Gardens,3
+959,Irish,3
+959,Gastropubs,6
+959,Southern,1
+959,Airports,3
+959,Modern European,3
+959,Tapas/Small Plates,3
+959,Brasseries,3
+1135,American (New),15
+1135,Vegetarian,1
+1135,Sushi Bars,1
+1135,Latin American,1
+1135,Pubs,9
+1135,British,3
+1135,Climbing,2
+1135,Irish,3
+1135,Breweries,6
+1135,Tapas/Small Plates,3
+1284,American (New),61
+1284,German,3
+1284,Wine Bars,19
+1284,Vegetarian,11
+1284,Soul Food,2
+1284,Sushi Bars,17
+1284,Latin American,5
+1284,Vegan,13
+1284,Pubs,5
+1284,British,3
+1284,Botanical Gardens,1
+1284,Irish,1
+1284,Gastropubs,7
+1284,Breweries,2
+1284,African,1
+1284,Southern,3
+1284,Airports,3
+1284,Modern European,1
+1284,Ethiopian,1
+1284,Tapas/Small Plates,6
+1284,Brasseries,1
+1463,American (New),5
+1463,Wine Bars,3
+1463,Soul Food,3
+1463,Sushi Bars,8
+1463,Latin American,1
+1463,Pubs,8
+1463,British,3
+1463,Irish,1
+1463,Breweries,1
+1463,Southern,3
+1607,American (New),25
+1607,German,10
+1607,Wine Bars,3
+1607,Vegetarian,3
+1607,Sushi Bars,3
+1607,Latin American,2
+1607,Pubs,13
+1607,British,6
+1607,Irish,1
+1607,Breweries,17
+1607,Scandinavian,3
+1718,American (New),19
+1718,Wine Bars,15
+1718,Vegetarian,3
+1718,Sushi Bars,2
+1718,Latin American,1
+1718,Vegan,3
+1718,Pubs,5
+1718,Gastropubs,6
+1718,Breweries,10
+1718,Tapas/Small Plates,3
+1742,American (New),21
+1742,German,3
+1742,Sushi Bars,9
+1742,Latin American,6
+1742,Vegan,3
+1742,Pubs,12
+1742,British,3
+1742,Breweries,3
+1742,African,3
+1742,Modern European,6
+1742,Ethiopian,3
+1742,Piano Bars,3
+1742,Fondue,3
+1771,American (New),29
+1771,German,3
+1771,Wine Bars,9
+1771,Vegetarian,9
+1771,Sushi Bars,19
+1771,Pubs,3
+1771,British,6
+1771,Irish,3
+1771,Breweries,1
+1771,Tapas/Small Plates,3
+1818,American (New),15
+1818,Wine Bars,7
+1818,Vegetarian,6
+1818,Soul Food,1
+1818,Sushi Bars,11
+1818,Vegan,1
+1818,Pubs,9
+1818,British,3
+1818,Botanical Gardens,3
+1818,Irish,3
+1818,Southern,1
+1818,Airports,3
+1818,Tapas/Small Plates,3
+2160,American (New),15
+2160,Wine Bars,10
+2160,Vegetarian,5
+2160,Sushi Bars,6
+2160,Latin American,1
+2160,Vegan,3
+2160,Pubs,1
+2160,Szechuan,2
+2160,Gastropubs,1
+2160,Southern,1
+2160,Tapas/Small Plates,3
+2160,Scandinavian,1
+2187,American (New),13
+2187,Wine Bars,3
+2187,Vegetarian,3
+2187,Soul Food,3
+2187,Sushi Bars,4
+2187,Latin American,3
+2187,Vegan,3
+2187,Southern,3
+2187,Airports,3
+2187,Fondue,1
+2297,American (New),37
+2297,German,3
+2297,Wine Bars,17
+2297,Vegetarian,9
+2297,Soul Food,3
+2297,Sushi Bars,12
+2297,Latin American,9
+2297,Vegan,6
+2297,Pubs,19
+2297,British,3
+2297,Climbing,3
+2297,Irish,4
+2297,Breweries,6
+2297,Southern,3
+2297,Airports,3
+2297,Ethiopian,3
+2297,Fondue,1
+2389,American (New),21
+2389,Wine Bars,6
+2389,Vegetarian,9
+2389,Soul Food,6
+2389,Sushi Bars,1
+2389,Latin American,6
+2389,Pubs,1
+2389,British,3
+2389,Breweries,1
+2389,Southern,3
+2389,Tapas/Small Plates,3
+2445,American (New),39
+2445,German,3
+2445,Wine Bars,10
+2445,Vegetarian,9
+2445,Sushi Bars,1
+2445,Latin American,3
+2445,Pubs,9
+2445,Gastropubs,3
+2445,Airports,3
+2445,Tapas/Small Plates,3
+2445,Food Court,1
+2654,American (New),4
+2654,Wine Bars,3
+2654,Vegetarian,6
+2654,Sushi Bars,3
+2654,Vegan,6
+2654,Pubs,9
+2654,British,6
+2654,Irish,3
+2654,Breweries,3
+2654,Ethiopian,3
+3171,American (New),21
+3171,German,3
+3171,Wine Bars,7
+3171,Vegetarian,7
+3171,Soul Food,3
+3171,Sushi Bars,3
+3171,Latin American,4
+3171,Pubs,11
+3171,British,3
+3171,Breweries,3
+3171,Southern,4
+3622,American (New),27
+3622,Wine Bars,9
+3622,Vegetarian,6
+3622,Soul Food,3
+3622,Sushi Bars,10
+3622,Latin American,3
+3622,Botanical Gardens,3
+3622,Zoos,3
+3622,Gastropubs,3
+3622,Breweries,2
+3622,Southern,4
+3622,Tapas/Small Plates,3
+3665,American (New),33
+3665,German,3
+3665,Wine Bars,7
+3665,Sushi Bars,3
+3665,Latin American,4
+3665,Vegan,3
+3665,Pubs,3
+3665,Gastropubs,3
+3665,Breweries,6
+3665,Airports,1
+3665,Food Court,3
+3703,American (New),33
+3703,German,3
+3703,Wine Bars,3
+3703,Vegetarian,15
+3703,Sushi Bars,11
+3703,Vegan,17
+3703,Pubs,7
+3703,Szechuan,3
+3703,Gastropubs,9
+3703,Breweries,1
+3703,Southern,1
+3703,Cambodian,3
+3703,Tapas/Small Plates,3
+3789,American (New),21
+3789,Wine Bars,3
+3789,Vegetarian,2
+3789,Sushi Bars,5
+3789,Latin American,6
+3789,Pubs,7
+3789,British,3
+3789,Zoos,3
+3789,Irish,1
+3789,Piano Bars,3
+3976,American (New),9
+3976,Wine Bars,9
+3976,Vegetarian,3
+3976,Sushi Bars,6
+3976,Latin American,2
+3976,Vegan,1
+3976,Pubs,3
+3976,British,3
+3976,Modern European,1
+3976,Tapas/Small Plates,3
+4210,American (New),27
+4210,Wine Bars,4
+4210,Vegetarian,3
+4210,Soul Food,4
+4210,Sushi Bars,6
+4210,Pubs,9
+4210,Gastropubs,3
+4210,Breweries,6
+4210,Southern,3
+4210,Tapas/Small Plates,3
+4233,American (New),4
+4233,Latin American,1
+4233,Vegan,2
+4233,Pubs,7
+4233,British,1
+4233,Irish,3
+4233,Breweries,3
+4233,African,1
+4233,Southern,1
+4233,Ethiopian,1
+4654,American (New),53
+4654,Wine Bars,12
+4654,Vegetarian,12
+4654,Soul Food,3
+4654,Sushi Bars,9
+4654,Latin American,3
+4654,Pubs,3
+4654,Breweries,9
+4654,Southern,3
+4654,Modern European,3
+4732,American (New),65
+4732,Wine Bars,17
+4732,Vegetarian,13
+4732,Soul Food,7
+4732,Sushi Bars,13
+4732,Latin American,11
+4732,Vegan,11
+4732,Pubs,9
+4732,British,2
+4732,Zoos,1
+4732,Irish,2
+4732,Gastropubs,7
+4732,Breweries,8
+4732,African,4
+4732,Southern,5
+4732,Modern European,3
+4732,Ethiopian,3
+4732,Cambodian,1
+4732,Tapas/Small Plates,6
+4732,Scandinavian,3
+4732,Food Court,1
+4732,Brasseries,3
+4979,American (New),11
+4979,Wine Bars,3
+4979,Vegetarian,4
+4979,Soul Food,3
+4979,Vegan,3
+4979,Pubs,3
+4979,British,3
+4979,Climbing,3
+4979,Southern,3
+4979,Modern European,3
+5330,American (New),15
+5330,Wine Bars,12
+5330,Vegetarian,6
+5330,Sushi Bars,3
+5330,Latin American,3
+5330,Vegan,3
+5330,Pubs,17
+5330,British,3
+5330,Irish,3
+5330,Gastropubs,3
+5330,Breweries,3
+5330,Tapas/Small Plates,3
+5550,American (New),19
+5550,Wine Bars,3
+5550,Vegetarian,3
+5550,Soul Food,3
+5550,Sushi Bars,15
+5550,Vegan,2
+5550,Pubs,10
+5550,British,3
+5550,Irish,1
+5550,Southern,3
+5756,American (New),11
+5756,Wine Bars,6
+5756,Vegetarian,4
+5756,Soul Food,3
+5756,Sushi Bars,5
+5756,Latin American,3
+5756,Vegan,10
+5756,Pubs,3
+5756,Szechuan,1
+5756,Zoos,3
+5756,Southern,4
+5817,American (New),43
+5817,Wine Bars,21
+5817,Vegetarian,8
+5817,Soul Food,6
+5817,Sushi Bars,27
+5817,Vegan,3
+5817,Pubs,13
+5817,British,1
+5817,Szechuan,3
+5817,Brazilian,3
+5817,Zoos,3
+5817,Irish,9
+5817,Southern,9
+5817,Airports,1
+5817,Tapas/Small Plates,1
+5944,American (New),45
+5944,Wine Bars,15
+5944,Vegetarian,3
+5944,Soul Food,3
+5944,Sushi Bars,10
+5944,Latin American,6
+5944,Vegan,4
+5944,Pubs,3
+5944,Gastropubs,1
+5944,African,1
+5944,Southern,3
+5944,Ethiopian,4
+5944,Piano Bars,3
+5944,Fondue,1
+5944,Tapas/Small Plates,3
+5955,American (New),19
+5955,Wine Bars,1
+5955,Vegetarian,3
+5955,Sushi Bars,2
+5955,Latin American,3
+5955,Pubs,9
+5955,Zoos,3
+5955,Irish,3
+5955,Breweries,3
+5955,Southern,1
+6027,American (New),21
+6027,Wine Bars,6
+6027,Sushi Bars,11
+6027,Latin American,7
+6027,Vegan,3
+6027,Pubs,3
+6027,Climbing,3
+6027,Botanical Gardens,3
+6027,Breweries,3
+6027,Tapas/Small Plates,3
+6133,American (New),109
+6133,German,3
+6133,Wine Bars,25
+6133,Vegetarian,17
+6133,Sushi Bars,13
+6133,Latin American,3
+6133,Vegan,4
+6133,Pubs,15
+6133,British,3
+6133,Climbing,3
+6133,Botanical Gardens,3
+6133,Zoos,3
+6133,Irish,4
+6133,Gastropubs,6
+6133,Airports,4
+6133,Tapas/Small Plates,6
+6133,Food Court,3
+6133,Brasseries,3
+6279,American (New),5
+6279,German,3
+6279,Wine Bars,1
+6279,Vegetarian,6
+6279,Soul Food,1
+6279,Sushi Bars,8
+6279,Pubs,4
+6279,Szechuan,3
+6279,Breweries,3
+6279,Southern,1
+6279,Fondue,3
+6322,American (New),25
+6322,Wine Bars,11
+6322,Vegetarian,3
+6322,Soul Food,5
+6322,Sushi Bars,9
+6322,Latin American,7
+6322,Pubs,3
+6322,British,3
+6322,Gastropubs,1
+6322,Southern,5
+6322,Airports,1
+6498,American (New),31
+6498,Wine Bars,21
+6498,Vegetarian,7
+6498,Sushi Bars,13
+6498,Latin American,7
+6498,Pubs,13
+6498,British,4
+6498,Szechuan,3
+6498,Zoos,3
+6498,Irish,8
+6498,Southern,1
+6498,Airports,3
+6498,Tapas/Small Plates,3
+6663,American (New),17
+6663,Wine Bars,9
+6663,Vegetarian,9
+6663,Sushi Bars,19
+6663,Latin American,3
+6663,Vegan,3
+6663,Pubs,3
+6663,Brazilian,3
+6663,Gastropubs,3
+6663,Breweries,3
+6663,Tapas/Small Plates,3
+6696,American (New),13
+6696,Wine Bars,7
+6696,Vegetarian,6
+6696,Soul Food,7
+6696,Sushi Bars,2
+6696,Latin American,3
+6696,Vegan,6
+6696,Pubs,7
+6696,British,3
+6696,Zoos,1
+6696,Irish,3
+6696,Breweries,1
+6696,Southern,3
+6696,Tapas/Small Plates,3
+7090,American (New),19
+7090,German,3
+7090,Vegetarian,1
+7090,Sushi Bars,7
+7090,Latin American,3
+7090,Pubs,7
+7090,British,3
+7090,Gastropubs,3
+7090,Airports,1
+7090,Cambodian,3
+7090,Tapas/Small Plates,1
+7125,American (New),29
+7125,German,1
+7125,Wine Bars,3
+7125,Soul Food,3
+7125,Latin American,3
+7125,Vegan,3
+7125,Pubs,8
+7125,British,3
+7125,Botanical Gardens,3
+7125,Zoos,1
+7125,Gastropubs,6
+7125,Southern,3
+7125,Airports,3
+7125,Tapas/Small Plates,3
+7125,Brasseries,1
+7321,American (New),23
+7321,German,3
+7321,Wine Bars,7
+7321,Vegetarian,4
+7321,Sushi Bars,10
+7321,Latin American,3
+7321,Pubs,6
+7321,Climbing,3
+7321,Irish,6
+7321,Fondue,1
+7618,American (New),13
+7618,Vegetarian,4
+7618,Soul Food,3
+7618,Sushi Bars,9
+7618,Latin American,5
+7618,Vegan,1
+7618,Gastropubs,3
+7618,Breweries,3
+7618,Southern,3
+7618,Cambodian,3
+8055,American (New),6
+8055,Wine Bars,1
+8055,Vegetarian,1
+8055,Vegan,2
+8055,Pubs,7
+8055,British,1
+8055,Irish,3
+8055,Gastropubs,1
+8055,Breweries,6
+8055,Ethiopian,1
+8055,Tapas/Small Plates,1
+8184,American (New),53
+8184,Wine Bars,9
+8184,Vegetarian,13
+8184,Soul Food,3
+8184,Sushi Bars,7
+8184,Latin American,6
+8184,Vegan,10
+8184,Pubs,17
+8184,British,3
+8184,Szechuan,3
+8184,Botanical Gardens,3
+8184,Irish,6
+8184,Gastropubs,3
+8184,Breweries,3
+8184,Southern,3
+8339,American (New),43
+8339,Wine Bars,4
+8339,Vegetarian,11
+8339,Soul Food,6
+8339,Sushi Bars,13
+8339,Latin American,3
+8339,Vegan,7
+8339,Pubs,13
+8339,British,6
+8339,Botanical Gardens,3
+8339,Brazilian,3
+8339,Irish,5
+8339,Breweries,13
+8339,Southern,9
+8339,Fondue,6
+8339,Scandinavian,3
+8527,American (New),39
+8527,German,1
+8527,Wine Bars,3
+8527,Vegetarian,19
+8527,Soul Food,3
+8527,Sushi Bars,12
+8527,Latin American,4
+8527,Vegan,4
+8527,Pubs,8
+8527,Szechuan,1
+8527,Zoos,3
+8527,Irish,3
+8527,Breweries,1
+8527,Southern,7
+8909,American (New),25
+8909,Wine Bars,7
+8909,Vegetarian,4
+8909,Sushi Bars,6
+8909,Latin American,10
+8909,Pubs,9
+8909,Szechuan,3
+8909,Irish,5
+8909,Breweries,5
+8909,Piano Bars,3
+8909,Tapas/Small Plates,3
+8963,American (New),19
+8963,Wine Bars,9
+8963,Vegetarian,3
+8963,Soul Food,3
+8963,Latin American,3
+8963,Vegan,7
+8963,Pubs,12
+8963,British,3
+8963,Breweries,3
+8963,African,1
+8963,Ethiopian,1
+9031,American (New),19
+9031,German,3
+9031,Wine Bars,7
+9031,Vegetarian,2
+9031,Sushi Bars,3
+9031,Latin American,3
+9031,Pubs,8
+9031,British,1
+9031,Szechuan,3
+9031,Irish,3
+9031,Gastropubs,3
+9031,Breweries,3
+9031,Airports,1
+9146,American (New),25
+9146,German,3
+9146,Wine Bars,13
+9146,Vegetarian,8
+9146,Soul Food,3
+9146,Sushi Bars,7
+9146,Vegan,3
+9146,Pubs,15
+9146,British,10
+9146,Climbing,3
+9146,Botanical Gardens,3
+9146,Irish,7
+9146,Breweries,4
+9146,Southern,3
+9146,Piano Bars,3
+9146,Tapas/Small Plates,1
+9301,American (New),11
+9301,Wine Bars,3
+9301,Vegetarian,10
+9301,Sushi Bars,7
+9301,Vegan,5
+9301,Pubs,3
+9301,British,3
+9301,Climbing,1
+9301,African,4
+9301,Airports,3
+9301,Ethiopian,2
+9301,Cambodian,3
+9301,Tapas/Small Plates,6
+9345,American (New),19
+9345,Wine Bars,6
+9345,Sushi Bars,5
+9345,Pubs,8
+9345,British,6
+9345,Zoos,1
+9345,Irish,2
+9345,Gastropubs,12
+9345,Breweries,1
+9345,Ethiopian,3
+9345,Scandinavian,1
+9797,American (New),31
+9797,German,3
+9797,Wine Bars,6
+9797,Vegetarian,6
+9797,Soul Food,7
+9797,Sushi Bars,17
+9797,Latin American,6
+9797,Vegan,10
+9797,Pubs,11
+9797,British,5
+9797,Botanical Gardens,1
+9797,Gastropubs,1
+9797,Breweries,7
+9797,African,3
+9797,Southern,10
+9797,Airports,3
+9797,Ethiopian,3
+9849,American (New),27
+9849,Soul Food,6
+9849,Sushi Bars,4
+9849,Pubs,9
+9849,British,3
+9849,Irish,3
+9849,Gastropubs,7
+9849,Breweries,1
+9849,Southern,3
+9849,Fondue,1
+9849,Tapas/Small Plates,3
+9849,Food Court,1
+10114,American (New),19
+10114,Wine Bars,6
+10114,Vegetarian,4
+10114,Latin American,3
+10114,Vegan,3
+10114,Pubs,9
+10114,Irish,2
+10114,Gastropubs,3
+10114,Breweries,6
+10114,Fondue,3
+10142,American (New),29
+10142,Vegetarian,6
+10142,Soul Food,6
+10142,Sushi Bars,13
+10142,Latin American,6
+10142,Vegan,3
+10142,Pubs,9
+10142,Zoos,3
+10142,Gastropubs,4
+10142,Breweries,3
+10142,Southern,6
+10142,Airports,3
+10142,Fondue,3
+10142,Cambodian,1
+10142,Scandinavian,3
+10149,American (New),7
+10149,Wine Bars,3
+10149,Vegetarian,1
+10149,Sushi Bars,4
+10149,Latin American,3
+10149,Pubs,2
+10149,Irish,1
+10149,Breweries,2
+10149,Piano Bars,3
+10149,Tapas/Small Plates,3
+10230,American (New),6
+10230,Wine Bars,3
+10230,Soul Food,3
+10230,Sushi Bars,7
+10230,Pubs,13
+10230,British,3
+10230,Zoos,3
+10230,Irish,4
+10230,Gastropubs,3
+10230,Breweries,3
+10230,Southern,3
+10368,American (New),19
+10368,Wine Bars,12
+10368,Vegetarian,12
+10368,Sushi Bars,15
+10368,Vegan,3
+10368,Pubs,7
+10368,British,3
+10368,Climbing,3
+10368,Gastropubs,6
+10368,Breweries,3
+10368,African,3
+10368,Southern,1
+10368,Airports,3
+10368,Ethiopian,3
+10368,Tapas/Small Plates,3
+10498,American (New),19
+10498,Wine Bars,3
+10498,Vegetarian,3
+10498,Sushi Bars,6
+10498,Vegan,1
+10498,Pubs,3
+10498,Breweries,3
+10498,African,1
+10498,Airports,3
+10498,Ethiopian,1
+10556,American (New),43
+10556,German,3
+10556,Wine Bars,19
+10556,Vegetarian,8
+10556,Sushi Bars,1
+10556,Latin American,15
+10556,Pubs,6
+10556,British,3
+10556,Gastropubs,3
+10556,Breweries,4
+10556,African,3
+10556,Tapas/Small Plates,9
+10862,American (New),15
+10862,German,3
+10862,Wine Bars,9
+10862,Vegetarian,5
+10862,Soul Food,7
+10862,Sushi Bars,10
+10862,Vegan,2
+10862,Pubs,1
+10862,Irish,1
+10862,Gastropubs,3
+10862,Southern,6
+11021,American (New),111
+11021,German,9
+11021,Wine Bars,23
+11021,Vegetarian,15
+11021,Soul Food,9
+11021,Sushi Bars,27
+11021,Latin American,9
+11021,Vegan,1
+11021,Pubs,29
+11021,British,10
+11021,Brazilian,3
+11021,Zoos,3
+11021,Irish,12
+11021,Gastropubs,13
+11021,Breweries,10
+11021,Southern,8
+11021,Fondue,3
+11021,Tapas/Small Plates,9
+11021,Scandinavian,6
+11320,American (New),27
+11320,Wine Bars,6
+11320,Vegetarian,9
+11320,Soul Food,3
+11320,Sushi Bars,4
+11320,Latin American,2
+11320,Pubs,4
+11320,Gastropubs,1
+11320,Ethiopian,3
+11320,Tapas/Small Plates,1
+11347,American (New),6
+11347,German,4
+11347,Wine Bars,6
+11347,Vegetarian,1
+11347,Soul Food,3
+11347,Sushi Bars,1
+11347,Vegan,3
+11347,Pubs,9
+11347,British,3
+11347,Irish,3
+11347,Breweries,7
+11347,African,4
+11347,Southern,3
+11347,Airports,3
+11347,Ethiopian,3
+11347,Tapas/Small Plates,6
+11789,American (New),11
+11789,German,3
+11789,Wine Bars,9
+11789,Vegetarian,4
+11789,Soul Food,3
+11789,Sushi Bars,1
+11789,Latin American,3
+11789,Pubs,5
+11789,British,3
+11789,Gastropubs,1
+11789,Breweries,1
+11789,Southern,3
+11789,Piano Bars,3
+11789,Scandinavian,3
+11895,American (New),19
+11895,Wine Bars,1
+11895,Vegetarian,6
+11895,Sushi Bars,4
+11895,Vegan,3
+11895,Pubs,1
+11895,British,1
+11895,Brazilian,3
+11895,Zoos,3
+11895,Ethiopian,3
+11895,Fondue,3
+11920,American (New),13
+11920,Wine Bars,3
+11920,Vegetarian,6
+11920,Sushi Bars,15
+11920,Vegan,15
+11920,Pubs,5
+11920,Irish,4
+11920,Breweries,4
+11920,African,3
+11920,Ethiopian,3
+11998,American (New),25
+11998,Wine Bars,15
+11998,Vegetarian,1
+11998,Sushi Bars,3
+11998,Latin American,3
+11998,Vegan,3
+11998,Pubs,4
+11998,British,3
+11998,Irish,3
+11998,Breweries,1
+11998,African,3
+11998,Southern,1
+11998,Ethiopian,3
+12521,American (New),29
+12521,Wine Bars,9
+12521,Vegetarian,15
+12521,Sushi Bars,6
+12521,Latin American,2
+12521,Pubs,3
+12521,British,3
+12521,Irish,3
+12521,Breweries,3
+12521,Airports,6
+12521,Tapas/Small Plates,1
+12564,American (New),17
+12564,German,3
+12564,Wine Bars,3
+12564,Vegetarian,5
+12564,Soul Food,3
+12564,Sushi Bars,7
+12564,Latin American,1
+12564,Vegan,1
+12564,Pubs,6
+12564,Irish,3
+12564,Gastropubs,1
+12564,Breweries,3
+12564,Southern,3
+12564,Tapas/Small Plates,3
+12564,Scandinavian,3
+12564,Food Court,1
+12891,American (New),45
+12891,Wine Bars,9
+12891,Vegetarian,10
+12891,Soul Food,3
+12891,Sushi Bars,17
+12891,Latin American,3
+12891,Pubs,15
+12891,British,1
+12891,Breweries,12
+12891,Southern,6
+12891,Modern European,3
+12891,Tapas/Small Plates,1
+12891,Brasseries,1
+13101,American (New),23
+13101,German,3
+13101,Wine Bars,9
+13101,Vegetarian,9
+13101,Vegan,9
+13101,Pubs,15
+13101,British,3
+13101,Irish,3
+13101,Breweries,4
+13101,Airports,3
+13101,Scandinavian,3
+13144,American (New),29
+13144,German,1
+13144,Wine Bars,11
+13144,Vegetarian,6
+13144,Sushi Bars,6
+13144,Latin American,3
+13144,Vegan,6
+13144,Pubs,17
+13144,British,1
+13144,Brazilian,3
+13144,Irish,9
+13144,Gastropubs,4
+13144,Breweries,6
+13220,American (New),23
+13220,Wine Bars,3
+13220,Vegetarian,9
+13220,Soul Food,3
+13220,Sushi Bars,2
+13220,Pubs,6
+13220,British,3
+13220,Zoos,3
+13220,Irish,3
+13220,Southern,3
+13220,Scandinavian,3
+13249,American (New),21
+13249,Wine Bars,13
+13249,Vegetarian,9
+13249,Soul Food,1
+13249,Sushi Bars,19
+13249,Latin American,15
+13249,Pubs,4
+13249,British,3
+13249,Climbing,3
+13249,Brazilian,3
+13249,Breweries,4
+13249,Southern,1
+13249,Airports,3
+13249,Modern European,3
+13249,Piano Bars,3
+13249,Fondue,3
+13431,American (New),13
+13431,Wine Bars,6
+13431,Soul Food,3
+13431,Sushi Bars,8
+13431,Latin American,3
+13431,Pubs,6
+13431,Szechuan,3
+13431,Irish,3
+13431,Gastropubs,3
+13431,Southern,3
+13431,Airports,1
+13557,American (New),41
+13557,Wine Bars,11
+13557,Vegetarian,8
+13557,Sushi Bars,19
+13557,Latin American,3
+13557,Vegan,6
+13557,Pubs,29
+13557,British,9
+13557,Climbing,3
+13557,Botanical Gardens,3
+13557,Zoos,1
+13557,Irish,15
+13557,Gastropubs,3
+13557,Breweries,9
+13557,African,3
+13557,Ethiopian,3
+13557,Tapas/Small Plates,1
+14379,American (New),25
+14379,German,1
+14379,Wine Bars,7
+14379,Vegetarian,4
+14379,Sushi Bars,1
+14379,Vegan,6
+14379,Pubs,13
+14379,British,2
+14379,Irish,3
+14379,Gastropubs,6
+14379,Breweries,17
+14379,Fondue,3
+14379,Scandinavian,6
+14454,American (New),37
+14454,Wine Bars,17
+14454,Vegetarian,6
+14454,Soul Food,3
+14454,Sushi Bars,9
+14454,Latin American,1
+14454,Vegan,3
+14454,Pubs,9
+14454,British,6
+14454,Gastropubs,3
+14454,Breweries,3
+14454,Southern,4
+14454,Tapas/Small Plates,3
+14463,American (New),25
+14463,Wine Bars,4
+14463,Vegetarian,7
+14463,Latin American,5
+14463,Vegan,8
+14463,Pubs,3
+14463,Gastropubs,3
+14463,Breweries,1
+14463,Modern European,3
+14463,Tapas/Small Plates,1
+14770,American (New),19
+14770,Wine Bars,1
+14770,Vegetarian,3
+14770,Sushi Bars,1
+14770,Pubs,4
+14770,British,3
+14770,Climbing,3
+14770,Szechuan,1
+14770,Breweries,2
+14770,Southern,1
+15273,American (New),19
+15273,Wine Bars,3
+15273,Vegetarian,4
+15273,Sushi Bars,4
+15273,Latin American,6
+15273,Pubs,13
+15273,Botanical Gardens,3
+15273,Irish,7
+15273,Gastropubs,3
+15273,Breweries,3
+15329,American (New),29
+15329,Wine Bars,7
+15329,Vegetarian,27
+15329,Soul Food,1
+15329,Sushi Bars,9
+15329,Vegan,25
+15329,Pubs,3
+15329,British,3
+15329,Gastropubs,3
+15329,African,3
+15329,Southern,1
+15329,Ethiopian,3
+15329,Cambodian,3
+15329,Tapas/Small Plates,3
+15542,American (New),17
+15542,Wine Bars,5
+15542,Vegetarian,12
+15542,Sushi Bars,15
+15542,Vegan,3
+15542,Pubs,10
+15542,Szechuan,3
+15542,Irish,6
+15542,Breweries,4
+15542,Piano Bars,1
+15542,Fondue,3
+16086,American (New),15
+16086,Wine Bars,3
+16086,Sushi Bars,1
+16086,Latin American,3
+16086,Pubs,3
+16086,Zoos,3
+16086,Irish,3
+16086,Breweries,3
+16086,Southern,1
+16086,Airports,3
+16086,Fondue,3
+16185,American (New),33
+16185,Wine Bars,6
+16185,Sushi Bars,6
+16185,Latin American,1
+16185,Pubs,10
+16185,Climbing,3
+16185,Brazilian,1
+16185,Gastropubs,6
+16185,Breweries,1
+16185,Ethiopian,3
+16185,Fondue,3
+16185,Cambodian,1
+16185,Food Court,1
+16736,American (New),15
+16736,Vegetarian,6
+16736,Soul Food,1
+16736,Sushi Bars,3
+16736,Latin American,3
+16736,Vegan,3
+16736,Pubs,7
+16736,Szechuan,1
+16736,Irish,2
+16736,Southern,3
+16736,Piano Bars,1
+16810,American (New),45
+16810,Wine Bars,9
+16810,Vegetarian,4
+16810,Soul Food,3
+16810,Sushi Bars,13
+16810,Vegan,3
+16810,Pubs,7
+16810,Botanical Gardens,1
+16810,Zoos,1
+16810,Irish,4
+16810,Southern,4
+16810,Airports,3
+16936,American (New),21
+16936,German,3
+16936,Wine Bars,12
+16936,Vegetarian,3
+16936,Soul Food,3
+16936,Sushi Bars,11
+16936,Pubs,6
+16936,British,3
+16936,Brazilian,1
+16936,Breweries,6
+16936,Southern,6
+16936,Piano Bars,3
+16936,Tapas/Small Plates,3
+17170,American (New),23
+17170,German,1
+17170,Wine Bars,10
+17170,Vegetarian,1
+17170,Sushi Bars,7
+17170,Latin American,3
+17170,Pubs,3
+17170,Irish,3
+17170,Breweries,7
+17170,Fondue,3
+17170,Tapas/Small Plates,3
+17363,American (New),7
+17363,Wine Bars,6
+17363,Vegetarian,7
+17363,Sushi Bars,12
+17363,Vegan,7
+17363,Pubs,6
+17363,Szechuan,1
+17363,Botanical Gardens,3
+17363,Brazilian,3
+17363,Irish,6
+17363,Tapas/Small Plates,3
+17869,American (New),23
+17869,German,1
+17869,Wine Bars,10
+17869,Vegetarian,10
+17869,Soul Food,3
+17869,Sushi Bars,15
+17869,Latin American,7
+17869,Vegan,5
+17869,Pubs,11
+17869,British,3
+17869,Irish,4
+17869,Gastropubs,1
+17869,Breweries,4
+17869,Airports,1
+17869,Tapas/Small Plates,3
+18202,American (New),35
+18202,Wine Bars,6
+18202,Vegetarian,12
+18202,Sushi Bars,15
+18202,Latin American,3
+18202,Pubs,3
+18202,Breweries,4
+18202,Southern,6
+18202,Airports,1
+18202,Fondue,3
+18251,American (New),29
+18251,Wine Bars,4
+18251,Vegetarian,3
+18251,Sushi Bars,6
+18251,Pubs,3
+18251,British,3
+18251,Brazilian,3
+18251,Gastropubs,4
+18251,Southern,3
+18251,Fondue,3
+18878,American (New),29
+18878,Wine Bars,6
+18878,Vegetarian,3
+18878,Sushi Bars,3
+18878,Latin American,4
+18878,Pubs,3
+18878,Botanical Gardens,3
+18878,Irish,3
+18878,Gastropubs,6
+18878,Airports,3
+18878,Food Court,3
+18901,American (New),9
+18901,German,1
+18901,Wine Bars,9
+18901,Soul Food,3
+18901,Sushi Bars,9
+18901,Latin American,7
+18901,Pubs,4
+18901,British,3
+18901,Brazilian,1
+18901,Irish,1
+18901,Southern,4
+18901,Tapas/Small Plates,3
+19124,American (New),12
+19124,Wine Bars,1
+19124,Vegetarian,6
+19124,Soul Food,3
+19124,Sushi Bars,8
+19124,Vegan,4
+19124,Pubs,3
+19124,British,3
+19124,Southern,3
+19124,Ethiopian,1
+19124,Piano Bars,3
+19254,American (New),19
+19254,German,3
+19254,Wine Bars,3
+19254,Vegetarian,9
+19254,Sushi Bars,11
+19254,Vegan,3
+19254,Pubs,3
+19254,Gastropubs,3
+19254,Breweries,3
+19254,Southern,3
+19254,Cambodian,3
+19254,Tapas/Small Plates,1
+19369,American (New),15
+19369,Wine Bars,3
+19369,Sushi Bars,3
+19369,Latin American,3
+19369,Vegan,3
+19369,Pubs,4
+19369,Gastropubs,1
+19369,Breweries,4
+19369,African,3
+19369,Ethiopian,3
+19369,Scandinavian,3
+19654,American (New),9
+19654,Sushi Bars,7
+19654,Vegan,4
+19654,Pubs,1
+19654,Climbing,1
+19654,Breweries,1
+19654,African,3
+19654,Airports,1
+19654,Ethiopian,3
+19654,Tapas/Small Plates,1
+19718,American (New),25
+19718,Wine Bars,3
+19718,Soul Food,3
+19718,Sushi Bars,1
+19718,Latin American,3
+19718,Vegan,1
+19718,Pubs,15
+19718,Irish,9
+19718,Gastropubs,3
+19718,Breweries,9
+19925,American (New),10
+19925,German,3
+19925,Wine Bars,6
+19925,Vegetarian,13
+19925,Sushi Bars,11
+19925,Vegan,3
+19925,Brazilian,3
+19925,Gastropubs,1
+19925,Breweries,1
+19925,Airports,3
+19925,Fondue,3
+19925,Cambodian,1
+19925,Scandinavian,1
+20003,American (New),17
+20003,Wine Bars,7
+20003,Vegetarian,4
+20003,Soul Food,1
+20003,Sushi Bars,4
+20003,Vegan,3
+20003,Pubs,9
+20003,British,4
+20003,Zoos,3
+20003,Irish,3
+20003,Breweries,3
+20003,African,3
+20003,Southern,1
+20003,Airports,4
+20003,Ethiopian,3
+20241,American (New),33
+20241,German,1
+20241,Wine Bars,5
+20241,Vegetarian,9
+20241,Soul Food,3
+20241,Sushi Bars,2
+20241,Latin American,3
+20241,Pubs,15
+20241,British,3
+20241,Zoos,1
+20241,Irish,4
+20241,Gastropubs,2
+20241,Breweries,13
+20241,Southern,4
+20241,Piano Bars,1
+20241,Tapas/Small Plates,3
+20384,American (New),29
+20384,Wine Bars,15
+20384,Vegetarian,9
+20384,Soul Food,6
+20384,Sushi Bars,9
+20384,Vegan,4
+20384,Pubs,7
+20384,British,3
+20384,Climbing,3
+20384,Botanical Gardens,3
+20384,Gastropubs,6
+20384,Breweries,3
+20384,Southern,6
+20384,Tapas/Small Plates,3
+20384,Scandinavian,3
+20422,American (New),11
+20422,Wine Bars,3
+20422,Vegetarian,3
+20422,Sushi Bars,4
+20422,Latin American,3
+20422,Vegan,3
+20422,Pubs,6
+20422,Breweries,3
+20422,Southern,1
+20422,Piano Bars,1
+21004,American (New),35
+21004,Wine Bars,17
+21004,Vegetarian,15
+21004,Sushi Bars,9
+21004,Latin American,4
+21004,Vegan,1
+21004,Pubs,13
+21004,Climbing,3
+21004,Botanical Gardens,3
+21004,Irish,7
+21004,Breweries,3
+21004,Fondue,1
+21004,Tapas/Small Plates,3
+21231,American (New),23
+21231,Wine Bars,10
+21231,Vegetarian,1
+21231,Soul Food,6
+21231,Sushi Bars,21
+21231,Pubs,15
+21231,British,6
+21231,Szechuan,3
+21231,Botanical Gardens,3
+21231,Irish,6
+21231,Gastropubs,3
+21231,Southern,6
+21345,American (New),33
+21345,Wine Bars,13
+21345,Vegetarian,13
+21345,Sushi Bars,6
+21345,Latin American,2
+21345,Vegan,3
+21345,Pubs,11
+21345,British,1
+21345,Irish,1
+21345,Gastropubs,3
+21345,Breweries,4
+21625,American (New),21
+21625,German,3
+21625,Wine Bars,7
+21625,Vegetarian,9
+21625,Soul Food,3
+21625,Sushi Bars,9
+21625,Vegan,9
+21625,Pubs,9
+21625,British,6
+21625,Irish,3
+21625,Gastropubs,1
+21625,Breweries,4
+21625,Southern,3
+21625,Scandinavian,3
+21840,American (New),19
+21840,Wine Bars,10
+21840,Vegetarian,3
+21840,Soul Food,6
+21840,Sushi Bars,11
+21840,Latin American,7
+21840,Vegan,3
+21840,Pubs,2
+21840,Irish,1
+21840,African,3
+21840,Southern,3
+21840,Cambodian,3
+21840,Tapas/Small Plates,3
+21927,American (New),27
+21927,Wine Bars,17
+21927,Vegetarian,3
+21927,Sushi Bars,9
+21927,Pubs,8
+21927,Botanical Gardens,3
+21927,Zoos,3
+21927,Irish,1
+21927,Breweries,7
+21927,Modern European,3
+21927,Piano Bars,3
+21927,Tapas/Small Plates,3
+21944,American (New),17
+21944,Wine Bars,3
+21944,Vegetarian,7
+21944,Soul Food,1
+21944,Sushi Bars,6
+21944,Vegan,1
+21944,Pubs,3
+21944,British,6
+21944,Szechuan,3
+21944,Zoos,3
+21944,Southern,1
+21944,Airports,3
+22191,American (New),41
+22191,Vegetarian,3
+22191,Sushi Bars,6
+22191,Vegan,6
+22191,Pubs,8
+22191,British,3
+22191,Szechuan,3
+22191,Irish,3
+22191,Gastropubs,3
+22191,Breweries,1
+22191,Modern European,3
+22191,Fondue,3
+22191,Food Court,1
+22202,American (New),27
+22202,Wine Bars,6
+22202,Vegetarian,3
+22202,Soul Food,1
+22202,Sushi Bars,10
+22202,Latin American,3
+22202,Szechuan,3
+22202,Botanical Gardens,3
+22202,Southern,1
+22202,Piano Bars,3
+22202,Tapas/Small Plates,3
+22404,American (New),21
+22404,German,3
+22404,Wine Bars,3
+22404,Sushi Bars,13
+22404,Latin American,9
+22404,Pubs,7
+22404,Climbing,3
+22404,Zoos,3
+22404,Breweries,6
+22404,Airports,3
+22423,American (New),33
+22423,German,3
+22423,Wine Bars,6
+22423,Vegetarian,7
+22423,Sushi Bars,6
+22423,Latin American,3
+22423,Vegan,6
+22423,Pubs,7
+22423,British,3
+22423,Irish,10
+22423,Breweries,1
+22423,Southern,1
+22423,Modern European,3
+22423,Food Court,3
+22743,American (New),27
+22743,Wine Bars,13
+22743,Vegetarian,3
+22743,Sushi Bars,7
+22743,Latin American,3
+22743,Vegan,1
+22743,Pubs,9
+22743,British,3
+22743,Irish,4
+22743,Gastropubs,7
+22743,Breweries,9
+22984,American (New),35
+22984,Wine Bars,15
+22984,Vegetarian,9
+22984,Soul Food,3
+22984,Sushi Bars,6
+22984,Latin American,6
+22984,Vegan,15
+22984,Pubs,4
+22984,British,3
+22984,Southern,3
+23023,American (New),47
+23023,Wine Bars,8
+23023,Vegetarian,3
+23023,Soul Food,3
+23023,Sushi Bars,3
+23023,Latin American,7
+23023,Pubs,6
+23023,British,6
+23023,Szechuan,1
+23023,Gastropubs,10
+23023,Southern,3
+23023,Piano Bars,3
+23023,Fondue,3
+23023,Brasseries,3
+23269,American (New),11
+23269,Wine Bars,6
+23269,Vegetarian,3
+23269,Sushi Bars,6
+23269,Latin American,3
+23269,Vegan,3
+23269,Pubs,3
+23269,Irish,3
+23269,African,4
+23269,Ethiopian,3
+23269,Tapas/Small Plates,1
+23269,Food Court,1
+23524,American (New),107
+23524,Wine Bars,29
+23524,Vegetarian,31
+23524,Soul Food,3
+23524,Sushi Bars,25
+23524,Latin American,9
+23524,Vegan,13
+23524,Pubs,17
+23524,British,3
+23524,Climbing,3
+23524,Botanical Gardens,3
+23524,Zoos,3
+23524,Irish,4
+23524,Gastropubs,9
+23524,Breweries,10
+23524,African,3
+23524,Southern,6
+23524,Airports,1
+23524,Modern European,3
+23524,Ethiopian,3
+23524,Piano Bars,1
+23524,Tapas/Small Plates,3
+23524,Brasseries,3
+23665,American (New),31
+23665,German,1
+23665,Wine Bars,10
+23665,Vegetarian,9
+23665,Soul Food,3
+23665,Latin American,6
+23665,Vegan,12
+23665,Pubs,13
+23665,British,4
+23665,Szechuan,3
+23665,Irish,10
+23665,Breweries,3
+23665,African,3
+23665,Southern,4
+23665,Ethiopian,3
+23665,Piano Bars,1
+23850,American (New),39
+23850,German,3
+23850,Wine Bars,4
+23850,Vegetarian,9
+23850,Sushi Bars,9
+23850,Vegan,13
+23850,Pubs,15
+23850,British,3
+23850,Climbing,3
+23850,Botanical Gardens,3
+23850,Irish,3
+23850,Gastropubs,3
+23850,Breweries,6
+23850,Ethiopian,3
+24074,American (New),23
+24074,Wine Bars,7
+24074,Sushi Bars,1
+24074,Latin American,2
+24074,Pubs,3
+24074,British,3
+24074,Szechuan,3
+24074,Gastropubs,3
+24074,Fondue,3
+24074,Tapas/Small Plates,1
+24096,American (New),31
+24096,Wine Bars,12
+24096,Vegetarian,6
+24096,Sushi Bars,15
+24096,Vegan,6
+24096,Pubs,3
+24096,Gastropubs,3
+24096,Breweries,3
+24096,Airports,3
+24096,Modern European,3
+24096,Ethiopian,3
+24190,American (New),15
+24190,Wine Bars,7
+24190,Soul Food,3
+24190,Sushi Bars,3
+24190,Vegan,3
+24190,Pubs,1
+24190,Gastropubs,3
+24190,Breweries,1
+24190,Southern,3
+24190,Tapas/Small Plates,3
+24229,American (New),15
+24229,German,1
+24229,Wine Bars,10
+24229,Soul Food,3
+24229,Sushi Bars,3
+24229,Vegan,3
+24229,Pubs,3
+24229,British,1
+24229,Breweries,3
+24229,Tapas/Small Plates,3
+24778,American (New),7
+24778,Wine Bars,1
+24778,Vegetarian,2
+24778,Sushi Bars,2
+24778,Pubs,5
+24778,British,3
+24778,Irish,3
+24778,Gastropubs,1
+24778,Breweries,1
+24778,Southern,3
+24778,Brasseries,3
+25009,American (New),15
+25009,German,1
+25009,Wine Bars,7
+25009,Vegetarian,3
+25009,Soul Food,3
+25009,Sushi Bars,4
+25009,Pubs,6
+25009,British,1
+25009,Climbing,3
+25009,Breweries,2
+25376,American (New),35
+25376,Wine Bars,12
+25376,Vegetarian,6
+25376,Sushi Bars,3
+25376,Vegan,3
+25376,Pubs,17
+25376,British,3
+25376,Gastropubs,3
+25376,Breweries,6
+25376,Modern European,3
+25454,American (New),23
+25454,Wine Bars,6
+25454,Vegetarian,8
+25454,Soul Food,3
+25454,Sushi Bars,15
+25454,Latin American,4
+25454,Szechuan,3
+25454,Brazilian,1
+25454,Breweries,3
+25454,Southern,3
+25454,Tapas/Small Plates,3
+25506,American (New),13
+25506,Wine Bars,1
+25506,Vegetarian,3
+25506,Sushi Bars,11
+25506,Latin American,3
+25506,Vegan,1
+25506,Pubs,6
+25506,British,3
+25506,Climbing,3
+25506,Szechuan,1
+25556,American (New),25
+25556,German,3
+25556,Wine Bars,12
+25556,Vegetarian,6
+25556,Soul Food,3
+25556,Pubs,6
+25556,British,3
+25556,Breweries,6
+25556,Southern,3
+25556,Tapas/Small Plates,3
+25745,American (New),39
+25745,Wine Bars,9
+25745,Soul Food,3
+25745,Sushi Bars,9
+25745,Latin American,11
+25745,Vegan,1
+25745,Pubs,11
+25745,Irish,4
+25745,Gastropubs,3
+25745,Breweries,4
+25745,Southern,6
+25745,Food Court,3
+26464,American (New),77
+26464,German,3
+26464,Wine Bars,17
+26464,Vegetarian,6
+26464,Sushi Bars,6
+26464,Latin American,7
+26464,Pubs,21
+26464,Szechuan,1
+26464,Irish,3
+26464,Gastropubs,12
+26464,Breweries,17
+26464,Airports,3
+26464,Tapas/Small Plates,3
+26478,American (New),17
+26478,Wine Bars,3
+26478,Vegetarian,12
+26478,Sushi Bars,3
+26478,Vegan,3
+26478,Brazilian,3
+26478,Gastropubs,3
+26478,Breweries,1
+26478,Airports,3
+26478,Tapas/Small Plates,3
+26619,American (New),25
+26619,Wine Bars,9
+26619,Vegetarian,1
+26619,Soul Food,3
+26619,Latin American,4
+26619,Vegan,4
+26619,Pubs,3
+26619,Szechuan,3
+26619,Brazilian,3
+26619,Gastropubs,3
+26619,African,3
+26619,Southern,3
+26619,Ethiopian,3
+26619,Tapas/Small Plates,3
+26764,American (New),17
+26764,Wine Bars,6
+26764,Vegetarian,7
+26764,Sushi Bars,11
+26764,Pubs,13
+26764,British,1
+26764,Irish,6
+26764,Gastropubs,3
+26764,Breweries,3
+26764,Tapas/Small Plates,3
+26783,American (New),19
+26783,Wine Bars,9
+26783,Vegetarian,4
+26783,Soul Food,3
+26783,Sushi Bars,6
+26783,Pubs,7
+26783,British,6
+26783,Gastropubs,3
+26783,Breweries,6
+26783,Southern,3
+26783,Modern European,1
+26813,American (New),63
+26813,German,6
+26813,Wine Bars,7
+26813,Vegetarian,5
+26813,Soul Food,3
+26813,Sushi Bars,9
+26813,Latin American,13
+26813,Pubs,13
+26813,British,1
+26813,Climbing,3
+26813,Szechuan,3
+26813,Brazilian,3
+26813,Irish,3
+26813,Gastropubs,3
+26813,Breweries,7
+26813,Southern,3
+26813,Modern European,3
+26813,Tapas/Small Plates,3
+26813,Scandinavian,3
+26910,American (New),17
+26910,German,3
+26910,Wine Bars,9
+26910,Vegetarian,4
+26910,Latin American,6
+26910,Vegan,1
+26910,Pubs,7
+26910,Botanical Gardens,3
+26910,Irish,6
+26910,Breweries,1
+26910,Southern,1
+27192,American (New),5
+27192,Wine Bars,3
+27192,Vegetarian,6
+27192,Soul Food,1
+27192,Sushi Bars,3
+27192,Latin American,3
+27192,Pubs,1
+27192,Szechuan,3
+27192,Breweries,1
+27192,Southern,1
+27192,Fondue,1
+28053,American (New),9
+28053,Wine Bars,4
+28053,Vegetarian,1
+28053,Sushi Bars,11
+28053,Latin American,1
+28053,Vegan,2
+28053,Pubs,2
+28053,Irish,2
+28053,Breweries,1
+28053,Piano Bars,1
+28138,American (New),35
+28138,Wine Bars,9
+28138,Vegetarian,3
+28138,Soul Food,3
+28138,Vegan,3
+28138,Pubs,6
+28138,British,3
+28138,Botanical Gardens,3
+28138,Gastropubs,3
+28138,Breweries,6
+28138,Southern,3
+28171,American (New),27
+28171,Wine Bars,9
+28171,Vegetarian,13
+28171,Sushi Bars,6
+28171,Latin American,3
+28171,Vegan,3
+28171,Pubs,6
+28171,Irish,3
+28171,Gastropubs,3
+28171,Breweries,6
+28217,American (New),33
+28217,Wine Bars,11
+28217,Vegetarian,8
+28217,Soul Food,3
+28217,Sushi Bars,5
+28217,Vegan,6
+28217,British,1
+28217,African,3
+28217,Southern,3
+28217,Ethiopian,6
+28217,Fondue,3
+28217,Cambodian,3
+28225,American (New),13
+28225,Wine Bars,1
+28225,Vegetarian,3
+28225,Sushi Bars,11
+28225,Pubs,11
+28225,British,3
+28225,Irish,6
+28225,Breweries,4
+28225,Airports,3
+28225,Tapas/Small Plates,1
+28382,American (New),27
+28382,Wine Bars,9
+28382,Vegetarian,11
+28382,Sushi Bars,10
+28382,Latin American,7
+28382,Vegan,7
+28382,Pubs,9
+28382,British,3
+28382,Irish,3
+28382,Breweries,3
+28480,American (New),12
+28480,Soul Food,3
+28480,Sushi Bars,3
+28480,Pubs,4
+28480,Szechuan,3
+28480,Irish,1
+28480,Gastropubs,1
+28480,Breweries,3
+28480,Southern,3
+28480,Fondue,3
+28488,American (New),31
+28488,Wine Bars,15
+28488,Vegetarian,6
+28488,Sushi Bars,11
+28488,Latin American,6
+28488,Vegan,6
+28488,Pubs,4
+28488,Gastropubs,4
+28488,Breweries,4
+28488,African,3
+28488,Modern European,3
+28488,Ethiopian,3
+28488,Tapas/Small Plates,10
+28492,American (New),19
+28492,Wine Bars,4
+28492,Vegetarian,1
+28492,Soul Food,3
+28492,Sushi Bars,21
+28492,Latin American,3
+28492,Vegan,3
+28492,Pubs,6
+28492,British,3
+28492,Climbing,3
+28492,Gastropubs,3
+28492,Breweries,3
+28492,Southern,3
+28492,Airports,3
+28492,Cambodian,3
+28492,Tapas/Small Plates,5
+28798,American (New),11
+28798,Wine Bars,13
+28798,Vegetarian,4
+28798,Sushi Bars,1
+28798,Latin American,12
+28798,Vegan,3
+28798,Pubs,3
+28798,British,3
+28798,Climbing,3
+28798,African,3
+28798,Ethiopian,3
+28798,Tapas/Small Plates,3
+28844,American (New),33
+28844,Wine Bars,6
+28844,Vegetarian,5
+28844,Sushi Bars,1
+28844,Latin American,1
+28844,Pubs,9
+28844,British,3
+28844,Brazilian,1
+28844,Zoos,3
+28844,Gastropubs,3
+28844,Breweries,3
+28844,Ethiopian,3
+28844,Cambodian,1
+28844,Food Court,3
+28895,American (New),37
+28895,Wine Bars,15
+28895,Vegetarian,6
+28895,Sushi Bars,13
+28895,Latin American,4
+28895,Pubs,12
+28895,British,3
+28895,Zoos,1
+28895,Irish,3
+28895,Southern,1
+28895,Fondue,1
+28895,Cambodian,3
+28991,American (New),11
+28991,Wine Bars,4
+28991,Soul Food,6
+28991,Sushi Bars,3
+28991,Vegan,3
+28991,Pubs,5
+28991,Irish,5
+28991,Gastropubs,1
+28991,Breweries,3
+28991,Southern,6
+29144,American (New),27
+29144,Wine Bars,5
+29144,Vegetarian,3
+29144,Soul Food,3
+29144,Sushi Bars,11
+29144,Pubs,6
+29144,Szechuan,3
+29144,Brazilian,3
+29144,Irish,3
+29144,Gastropubs,3
+29144,Breweries,3
+29144,Southern,3
+29144,Tapas/Small Plates,4
+29153,American (New),13
+29153,Vegetarian,6
+29153,Sushi Bars,8
+29153,Latin American,3
+29153,Pubs,7
+29153,British,3
+29153,Irish,3
+29153,Breweries,1
+29153,Southern,1
+29153,Airports,1
+29375,American (New),27
+29375,Wine Bars,3
+29375,Vegetarian,3
+29375,Soul Food,3
+29375,Latin American,3
+29375,Vegan,3
+29375,Pubs,6
+29375,British,3
+29375,Szechuan,3
+29375,Brazilian,3
+29375,Gastropubs,3
+29375,Southern,3
+29390,American (New),6
+29390,Vegetarian,3
+29390,Sushi Bars,4
+29390,Vegan,3
+29390,Pubs,11
+29390,British,4
+29390,Irish,3
+29390,Breweries,3
+29390,African,3
+29390,Ethiopian,3
+29569,American (New),15
+29569,Wine Bars,5
+29569,Vegetarian,3
+29569,Sushi Bars,13
+29569,Latin American,1
+29569,Vegan,6
+29569,Pubs,3
+29569,British,1
+29569,Botanical Gardens,3
+29569,Irish,1
+29569,Breweries,1
+29640,American (New),13
+29640,Wine Bars,12
+29640,Vegetarian,4
+29640,Sushi Bars,1
+29640,Vegan,7
+29640,Pubs,9
+29640,British,3
+29640,Botanical Gardens,3
+29640,Irish,5
+29640,Gastropubs,3
+29640,Breweries,2
+29640,African,3
+29640,Airports,3
+29640,Ethiopian,3
+29659,American (New),23
+29659,Wine Bars,15
+29659,Vegetarian,7
+29659,Soul Food,6
+29659,Sushi Bars,7
+29659,Latin American,4
+29659,Pubs,4
+29659,British,1
+29659,Southern,3
+29659,Airports,3
+29718,American (New),23
+29718,Wine Bars,3
+29718,Sushi Bars,8
+29718,Vegan,3
+29718,Pubs,19
+29718,British,3
+29718,Climbing,3
+29718,Irish,4
+29718,Breweries,6
+29718,Airports,3
+30355,American (New),21
+30355,German,1
+30355,Wine Bars,3
+30355,Soul Food,3
+30355,Sushi Bars,4
+30355,Latin American,3
+30355,Vegan,3
+30355,Pubs,4
+30355,British,3
+30355,Climbing,1
+30355,Brazilian,3
+30355,Gastropubs,9
+30355,African,6
+30355,Southern,3
+30355,Ethiopian,3
+30769,American (New),23
+30769,Wine Bars,8
+30769,Sushi Bars,9
+30769,Latin American,2
+30769,Vegan,3
+30769,Pubs,13
+30769,British,6
+30769,Szechuan,3
+30769,Gastropubs,3
+30769,Breweries,7
+30769,Fondue,3
+30769,Food Court,3
+30806,American (New),13
+30806,Wine Bars,4
+30806,Vegetarian,6
+30806,Sushi Bars,5
+30806,Vegan,3
+30806,Pubs,3
+30806,British,3
+30806,Breweries,6
+30806,African,3
+30806,Ethiopian,4
+30832,American (New),23
+30832,German,3
+30832,Wine Bars,6
+30832,Vegetarian,9
+30832,Latin American,6
+30832,Vegan,3
+30832,Pubs,9
+30832,British,3
+30832,Climbing,1
+30832,Breweries,7
+30855,American (New),21
+30855,German,1
+30855,Vegetarian,13
+30855,Soul Food,6
+30855,Latin American,1
+30855,Pubs,1
+30855,British,3
+30855,Zoos,3
+30855,African,1
+30855,Southern,6
+30855,Scandinavian,3
+31092,American (New),29
+31092,Wine Bars,6
+31092,Vegetarian,6
+31092,Sushi Bars,10
+31092,Latin American,3
+31092,Pubs,15
+31092,British,3
+31092,Gastropubs,3
+31092,Breweries,6
+31092,Southern,3
+31092,Piano Bars,3
+31092,Tapas/Small Plates,3
+31705,American (New),35
+31705,Wine Bars,9
+31705,Vegetarian,4
+31705,Soul Food,3
+31705,Sushi Bars,9
+31705,Latin American,3
+31705,Pubs,9
+31705,Botanical Gardens,3
+31705,Irish,3
+31705,Gastropubs,9
+31705,Breweries,1
+31705,Southern,4
+31705,Airports,4
+31726,American (New),17
+31726,Vegetarian,3
+31726,Soul Food,1
+31726,Sushi Bars,1
+31726,Latin American,6
+31726,Vegan,3
+31726,Pubs,5
+31726,British,4
+31726,Irish,1
+31726,Scandinavian,3
+31818,American (New),21
+31818,Wine Bars,9
+31818,Vegetarian,3
+31818,Soul Food,6
+31818,Sushi Bars,11
+31818,Latin American,19
+31818,Vegan,3
+31818,Pubs,17
+31818,Climbing,3
+31818,Szechuan,3
+31818,Botanical Gardens,1
+31818,Brazilian,1
+31818,Irish,12
+31818,Gastropubs,3
+31818,Breweries,4
+31818,African,1
+31818,Southern,6
+31818,Tapas/Small Plates,6
+32114,American (New),11
+32114,Vegetarian,1
+32114,Sushi Bars,1
+32114,Latin American,4
+32114,Pubs,4
+32114,British,1
+32114,Gastropubs,3
+32114,Breweries,3
+32114,Scandinavian,3
+32114,Food Court,1
+32193,American (New),15
+32193,Wine Bars,3
+32193,Sushi Bars,8
+32193,Latin American,3
+32193,Pubs,5
+32193,British,3
+32193,Irish,3
+32193,Gastropubs,3
+32193,Breweries,3
+32193,Fondue,1
+32470,American (New),27
+32470,Wine Bars,4
+32470,Vegetarian,6
+32470,Sushi Bars,3
+32470,Latin American,3
+32470,Pubs,3
+32470,Brazilian,3
+32470,Gastropubs,3
+32470,Breweries,3
+32470,Tapas/Small Plates,7
+32543,American (New),17
+32543,German,3
+32543,Wine Bars,3
+32543,Vegetarian,3
+32543,Sushi Bars,7
+32543,Vegan,6
+32543,Pubs,17
+32543,Irish,15
+32543,Gastropubs,3
+32543,Breweries,5
+32543,Southern,3
+32543,Piano Bars,3
+32690,American (New),39
+32690,Wine Bars,9
+32690,Vegetarian,9
+32690,Soul Food,4
+32690,Sushi Bars,7
+32690,Vegan,3
+32690,Pubs,9
+32690,British,6
+32690,Botanical Gardens,3
+32690,Irish,3
+32690,Gastropubs,3
+32690,Breweries,3
+32690,Southern,11
+32690,Airports,3
+32767,American (New),53
+32767,Wine Bars,13
+32767,Vegetarian,15
+32767,Soul Food,6
+32767,Sushi Bars,17
+32767,Latin American,13
+32767,Vegan,8
+32767,Pubs,15
+32767,British,6
+32767,Szechuan,1
+32767,Brazilian,3
+32767,Irish,4
+32767,Gastropubs,4
+32767,Breweries,6
+32767,African,3
+32767,Southern,6
+32767,Ethiopian,3
+32767,Piano Bars,3
+32767,Cambodian,3
+33100,American (New),9
+33100,German,1
+33100,Wine Bars,4
+33100,Vegetarian,3
+33100,Sushi Bars,1
+33100,Latin American,1
+33100,Pubs,1
+33100,Brazilian,3
+33100,Tapas/Small Plates,1
+33100,Brasseries,3
+33296,American (New),15
+33296,Wine Bars,12
+33296,Vegetarian,3
+33296,Sushi Bars,6
+33296,Vegan,3
+33296,Pubs,9
+33296,British,3
+33296,Irish,3
+33296,Gastropubs,6
+33296,Breweries,6
+33296,Airports,3
+33306,American (New),29
+33306,German,4
+33306,Wine Bars,5
+33306,Vegetarian,13
+33306,Vegan,2
+33306,Pubs,13
+33306,British,1
+33306,Climbing,3
+33306,Szechuan,1
+33306,Irish,5
+33306,Gastropubs,1
+33306,Breweries,17
+33306,Airports,4
+33319,American (New),17
+33319,Wine Bars,12
+33319,Vegetarian,7
+33319,Sushi Bars,15
+33319,Latin American,6
+33319,Pubs,13
+33319,British,3
+33319,Szechuan,3
+33319,Irish,6
+33319,Breweries,1
+33319,Airports,1
+33319,Piano Bars,3
+33448,American (New),31
+33448,Wine Bars,19
+33448,Latin American,4
+33448,Vegan,2
+33448,Pubs,9
+33448,Climbing,3
+33448,Botanical Gardens,3
+33448,Irish,8
+33448,Breweries,4
+33448,Southern,3
+33448,Tapas/Small Plates,3
+34148,American (New),17
+34148,Vegetarian,21
+34148,Soul Food,1
+34148,Vegan,17
+34148,Pubs,6
+34148,Breweries,3
+34148,African,6
+34148,Southern,2
+34148,Airports,3
+34148,Ethiopian,6
+34443,American (New),35
+34443,Wine Bars,15
+34443,Vegetarian,15
+34443,Sushi Bars,7
+34443,Vegan,3
+34443,Pubs,6
+34443,British,3
+34443,Climbing,3
+34443,Irish,4
+34443,Gastropubs,3
+34443,Food Court,1
+34550,American (New),15
+34550,German,3
+34550,Wine Bars,6
+34550,Vegetarian,3
+34550,Sushi Bars,3
+34550,Latin American,3
+34550,Pubs,3
+34550,British,3
+34550,Irish,3
+34550,Tapas/Small Plates,3
+34626,American (New),13
+34626,Wine Bars,3
+34626,Vegetarian,1
+34626,Soul Food,3
+34626,Sushi Bars,4
+34626,Pubs,3
+34626,British,3
+34626,Brazilian,3
+34626,Breweries,4
+34626,Southern,3
+34715,American (New),7
+34715,Wine Bars,3
+34715,Vegetarian,4
+34715,Sushi Bars,3
+34715,Vegan,3
+34715,Pubs,6
+34715,Climbing,3
+34715,Szechuan,1
+34715,Irish,3
+34715,Gastropubs,3
+34904,American (New),35
+34904,German,3
+34904,Wine Bars,13
+34904,Vegetarian,15
+34904,Sushi Bars,9
+34904,Vegan,1
+34904,Pubs,10
+34904,British,1
+34904,Zoos,1
+34904,Irish,3
+34904,Breweries,4
+34904,Modern European,3
+34904,Brasseries,3
+34916,American (New),69
+34916,Wine Bars,15
+34916,Vegetarian,7
+34916,Sushi Bars,9
+34916,Latin American,6
+34916,Pubs,19
+34916,Irish,3
+34916,Gastropubs,6
+34916,Breweries,10
+34916,Airports,1
+34916,Piano Bars,3
+34916,Tapas/Small Plates,9
+35001,American (New),13
+35001,Wine Bars,9
+35001,Vegetarian,4
+35001,Sushi Bars,3
+35001,Latin American,3
+35001,Vegan,4
+35001,Pubs,6
+35001,Irish,3
+35001,Piano Bars,3
+35001,Tapas/Small Plates,3
+35152,American (New),29
+35152,Wine Bars,11
+35152,Vegetarian,5
+35152,Soul Food,3
+35152,Sushi Bars,6
+35152,Latin American,4
+35152,Pubs,7
+35152,Irish,1
+35152,Gastropubs,2
+35152,Breweries,5
+35152,Southern,3
+35152,Modern European,1
+35320,American (New),19
+35320,Wine Bars,3
+35320,Vegetarian,8
+35320,Soul Food,3
+35320,Sushi Bars,3
+35320,Latin American,3
+35320,Vegan,15
+35320,Pubs,12
+35320,British,3
+35320,Breweries,3
+35320,Southern,4
+35320,Ethiopian,3
+35517,American (New),57
+35517,Wine Bars,13
+35517,Vegetarian,6
+35517,Sushi Bars,15
+35517,Latin American,12
+35517,Vegan,3
+35517,Pubs,6
+35517,British,1
+35517,Brazilian,3
+35517,Gastropubs,9
+35517,Breweries,9
+35517,Airports,3
+35517,Modern European,1
+35517,Fondue,4
+35517,Scandinavian,3
+35517,Brasseries,3
+35620,American (New),105
+35620,German,3
+35620,Wine Bars,19
+35620,Vegetarian,15
+35620,Sushi Bars,17
+35620,Latin American,4
+35620,Vegan,1
+35620,Pubs,17
+35620,Gastropubs,13
+35620,Breweries,11
+35620,Airports,9
+35620,Piano Bars,1
+35620,Tapas/Small Plates,7
+35748,American (New),13
+35748,Wine Bars,6
+35748,Soul Food,6
+35748,Sushi Bars,7
+35748,Pubs,3
+35748,Climbing,3
+35748,Breweries,3
+35748,Southern,6
+35748,Airports,3
+35748,Scandinavian,3
+35847,American (New),23
+35847,Wine Bars,12
+35847,Vegetarian,1
+35847,Sushi Bars,11
+35847,Latin American,1
+35847,Pubs,1
+35847,Zoos,3
+35847,Gastropubs,3
+35847,Breweries,1
+35847,Airports,1
+36143,American (New),13
+36143,Sushi Bars,19
+36143,Latin American,7
+36143,Pubs,4
+36143,British,1
+36143,Brazilian,3
+36143,Irish,1
+36143,Breweries,2
+36143,Southern,1
+36143,Tapas/Small Plates,6
+36143,Scandinavian,3
+36496,American (New),15
+36496,Wine Bars,9
+36496,Vegetarian,1
+36496,Soul Food,3
+36496,Sushi Bars,4
+36496,Latin American,1
+36496,Pubs,7
+36496,Szechuan,3
+36496,Zoos,3
+36496,Irish,3
+36496,Southern,6
+36496,Airports,3
+36496,Fondue,1
+36496,Tapas/Small Plates,3
+36602,American (New),15
+36602,German,3
+36602,Vegetarian,7
+36602,Latin American,3
+36602,Vegan,9
+36602,Pubs,12
+36602,British,3
+36602,Szechuan,1
+36602,Irish,6
+36602,Breweries,4
+36602,African,3
+36602,Southern,1
+36602,Ethiopian,3
+36633,American (New),21
+36633,Wine Bars,1
+36633,Vegetarian,15
+36633,Sushi Bars,15
+36633,Latin American,3
+36633,Vegan,6
+36633,Climbing,3
+36633,Gastropubs,3
+36633,Breweries,3
+36633,African,3
+36633,Airports,3
+36633,Ethiopian,3
+36633,Brasseries,1
+37208,American (New),15
+37208,Wine Bars,1
+37208,Vegetarian,6
+37208,Sushi Bars,10
+37208,Latin American,1
+37208,Pubs,3
+37208,Szechuan,3
+37208,Irish,3
+37208,Breweries,3
+37208,Tapas/Small Plates,3
+37239,American (New),31
+37239,Wine Bars,6
+37239,Vegetarian,2
+37239,Soul Food,3
+37239,Latin American,6
+37239,Vegan,6
+37239,Pubs,6
+37239,Botanical Gardens,3
+37239,Gastropubs,3
+37239,Breweries,1
+37239,Southern,3
+37456,American (New),19
+37456,Wine Bars,12
+37456,Vegetarian,3
+37456,Sushi Bars,10
+37456,Latin American,7
+37456,Vegan,1
+37456,Pubs,4
+37456,Breweries,1
+37456,Ethiopian,1
+37456,Tapas/Small Plates,3
+37520,American (New),27
+37520,German,1
+37520,Wine Bars,12
+37520,Vegetarian,6
+37520,Soul Food,3
+37520,Sushi Bars,12
+37520,Latin American,3
+37520,Pubs,1
+37520,Szechuan,1
+37520,Breweries,3
+37520,Southern,3
+37520,Tapas/Small Plates,3
+37724,American (New),37
+37724,German,4
+37724,Wine Bars,13
+37724,Vegetarian,12
+37724,Soul Food,6
+37724,Sushi Bars,8
+37724,Latin American,4
+37724,Vegan,8
+37724,Pubs,7
+37724,British,3
+37724,Szechuan,3
+37724,Botanical Gardens,3
+37724,Brazilian,3
+37724,Gastropubs,6
+37724,Breweries,3
+37724,Southern,7
+37724,Airports,1
+37724,Modern European,1
+37724,Cambodian,3
+37783,American (New),13
+37783,Wine Bars,10
+37783,Vegetarian,5
+37783,Soul Food,3
+37783,Sushi Bars,13
+37783,Vegan,9
+37783,Pubs,23
+37783,British,6
+37783,Climbing,3
+37783,Brazilian,3
+37783,Irish,13
+37783,Breweries,6
+37783,African,3
+37783,Southern,3
+37783,Ethiopian,6
+37811,American (New),25
+37811,German,3
+37811,Wine Bars,15
+37811,Vegetarian,10
+37811,Soul Food,3
+37811,Sushi Bars,10
+37811,Latin American,9
+37811,Vegan,10
+37811,Pubs,11
+37811,British,1
+37811,Botanical Gardens,6
+37811,Irish,3
+37811,Breweries,10
+37811,African,3
+37811,Southern,3
+37811,Airports,3
+37811,Ethiopian,6
+37811,Cambodian,3
+37811,Tapas/Small Plates,3
+38778,American (New),37
+38778,Wine Bars,17
+38778,Vegetarian,29
+38778,Soul Food,1
+38778,Sushi Bars,19
+38778,Latin American,1
+38778,Vegan,23
+38778,Pubs,19
+38778,British,3
+38778,Irish,3
+38778,Gastropubs,3
+38778,Breweries,25
+38778,Southern,2
+38778,Ethiopian,3
+38806,American (New),25
+38806,Wine Bars,7
+38806,Vegetarian,9
+38806,Sushi Bars,11
+38806,Latin American,3
+38806,Pubs,3
+38806,Brazilian,3
+38806,Irish,3
+38806,Breweries,6
+38806,Airports,3
+38817,American (New),23
+38817,Wine Bars,9
+38817,Vegetarian,3
+38817,Sushi Bars,7
+38817,Latin American,15
+38817,Vegan,3
+38817,British,3
+38817,Botanical Gardens,3
+38817,African,3
+38817,Southern,3
+38817,Ethiopian,6
+38817,Cambodian,3
+38817,Scandinavian,6
+39128,American (New),47
+39128,German,3
+39128,Wine Bars,12
+39128,Vegetarian,3
+39128,Soul Food,9
+39128,Sushi Bars,9
+39128,Latin American,3
+39128,Pubs,15
+39128,Irish,1
+39128,Gastropubs,6
+39128,Breweries,15
+39128,Southern,6
+39128,Piano Bars,3
+39128,Scandinavian,1
+39128,Food Court,3
+39296,American (New),23
+39296,Wine Bars,11
+39296,Vegetarian,10
+39296,Soul Food,3
+39296,Sushi Bars,4
+39296,Vegan,3
+39296,Pubs,15
+39296,British,3
+39296,Irish,4
+39296,Breweries,3
+39296,Southern,3
+39296,Tapas/Small Plates,3
+39452,American (New),13
+39452,German,3
+39452,Vegetarian,3
+39452,Soul Food,3
+39452,Sushi Bars,5
+39452,Vegan,3
+39452,Pubs,13
+39452,Szechuan,3
+39452,Brazilian,3
+39452,Irish,6
+39452,Breweries,1
+39452,Southern,3
+39452,Airports,3
+39452,Fondue,9
+39479,American (New),13
+39479,Wine Bars,9
+39479,Vegetarian,12
+39479,Sushi Bars,12
+39479,Latin American,3
+39479,Vegan,9
+39479,Pubs,3
+39479,Breweries,4
+39479,African,3
+39479,Ethiopian,3
+39479,Piano Bars,1
+39485,American (New),39
+39485,German,3
+39485,Wine Bars,6
+39485,Vegetarian,4
+39485,Sushi Bars,3
+39485,Latin American,3
+39485,Vegan,4
+39485,Pubs,3
+39485,Gastropubs,6
+39485,Breweries,3
+39687,American (New),37
+39687,German,3
+39687,Wine Bars,12
+39687,Vegetarian,10
+39687,Soul Food,6
+39687,Sushi Bars,1
+39687,Latin American,9
+39687,Vegan,6
+39687,Pubs,3
+39687,Gastropubs,3
+39687,Breweries,3
+39687,Southern,3
+39687,Food Court,1
+39752,American (New),19
+39752,Wine Bars,1
+39752,Vegetarian,1
+39752,Soul Food,3
+39752,Sushi Bars,10
+39752,Latin American,3
+39752,Pubs,3
+39752,British,6
+39752,Brazilian,1
+39752,Southern,3
+40047,American (New),17
+40047,Vegetarian,4
+40047,Soul Food,3
+40047,Sushi Bars,11
+40047,Latin American,1
+40047,Vegan,3
+40047,Pubs,10
+40047,Breweries,4
+40047,Southern,4
+40047,Cambodian,3
+40133,American (New),25
+40133,Wine Bars,6
+40133,Vegetarian,3
+40133,Soul Food,3
+40133,Sushi Bars,2
+40133,Latin American,3
+40133,Vegan,3
+40133,Pubs,1
+40133,Irish,1
+40133,Southern,4
+40133,Fondue,3
+40334,American (New),25
+40334,Wine Bars,6
+40334,Vegetarian,3
+40334,Soul Food,3
+40334,Sushi Bars,7
+40334,Latin American,3
+40334,Vegan,6
+40334,Pubs,6
+40334,British,3
+40334,Szechuan,3
+40334,Botanical Gardens,3
+40334,Gastropubs,6
+40334,Breweries,4
+40334,Southern,6
+40334,Ethiopian,3
+40334,Piano Bars,1
+40399,American (New),29
+40399,Wine Bars,15
+40399,Vegetarian,4
+40399,Soul Food,3
+40399,Sushi Bars,13
+40399,Pubs,6
+40399,British,3
+40399,Climbing,3
+40399,Breweries,3
+40399,Southern,3
+40399,Fondue,3
+40399,Tapas/Small Plates,3
+40506,American (New),33
+40506,German,3
+40506,Wine Bars,9
+40506,Vegetarian,23
+40506,Sushi Bars,15
+40506,Latin American,9
+40506,Vegan,21
+40506,Pubs,19
+40506,British,7
+40506,Szechuan,3
+40506,Irish,4
+40506,Breweries,3
+40506,African,1
+40506,Ethiopian,4
+40506,Fondue,3
+40506,Tapas/Small Plates,3
+40619,American (New),11
+40619,Wine Bars,4
+40619,Soul Food,3
+40619,Vegan,6
+40619,Pubs,13
+40619,British,6
+40619,Irish,3
+40619,African,3
+40619,Southern,3
+40619,Ethiopian,3
+40760,American (New),11
+40760,German,1
+40760,Vegetarian,5
+40760,Soul Food,13
+40760,Sushi Bars,4
+40760,Latin American,6
+40760,Vegan,1
+40760,Pubs,10
+40760,Brazilian,3
+40760,Irish,9
+40760,Breweries,1
+40760,Southern,6
+40831,American (New),15
+40831,Wine Bars,1
+40831,Vegetarian,15
+40831,Sushi Bars,3
+40831,Vegan,19
+40831,Pubs,9
+40831,British,3
+40831,Climbing,3
+40831,Irish,3
+40831,Ethiopian,3
+41143,American (New),13
+41143,Wine Bars,9
+41143,Vegetarian,1
+41143,Soul Food,3
+41143,Sushi Bars,15
+41143,Pubs,9
+41143,Climbing,3
+41143,Irish,6
+41143,Gastropubs,1
+41143,Breweries,4
+41143,Southern,3
+41304,American (New),27
+41304,Wine Bars,6
+41304,Vegetarian,3
+41304,Soul Food,3
+41304,Sushi Bars,15
+41304,Latin American,15
+41304,Vegan,6
+41304,Pubs,15
+41304,Irish,9
+41304,Gastropubs,3
+41304,Breweries,3
+41304,Southern,3
+41304,Ethiopian,3
+41388,American (New),39
+41388,Wine Bars,17
+41388,Vegetarian,6
+41388,Sushi Bars,12
+41388,Latin American,10
+41388,Pubs,13
+41388,Brazilian,3
+41388,Irish,7
+41388,Breweries,2
+41388,Scandinavian,3
+41388,Food Court,3
+41451,American (New),17
+41451,Wine Bars,3
+41451,Vegetarian,3
+41451,Sushi Bars,12
+41451,Latin American,3
+41451,Vegan,3
+41451,Pubs,4
+41451,British,3
+41451,Irish,1
+41451,Gastropubs,1
+41451,African,3
+41451,Ethiopian,3
+41451,Fondue,3
+41841,American (New),37
+41841,Wine Bars,13
+41841,Vegetarian,4
+41841,Sushi Bars,4
+41841,Latin American,6
+41841,Pubs,13
+41841,British,6
+41841,Irish,2
+41841,Gastropubs,7
+41841,Breweries,4
+41841,Tapas/Small Plates,3
+41841,Food Court,3
+42065,American (New),6
+42065,Wine Bars,3
+42065,Vegetarian,3
+42065,Sushi Bars,4
+42065,Pubs,4
+42065,British,3
+42065,Szechuan,1
+42065,Irish,1
+42065,Breweries,3
+42065,Airports,6
+42655,American (New),19
+42655,German,4
+42655,Vegetarian,1
+42655,Sushi Bars,3
+42655,Latin American,1
+42655,Pubs,5
+42655,Irish,3
+42655,Gastropubs,3
+42655,Breweries,5
+42655,Airports,6
+42655,Scandinavian,3
+42862,American (New),17
+42862,German,3
+42862,Wine Bars,3
+42862,Vegetarian,1
+42862,Soul Food,1
+42862,Sushi Bars,7
+42862,Latin American,1
+42862,Vegan,1
+42862,Pubs,1
+42862,Climbing,6
+42862,Irish,1
+42862,Breweries,2
+42862,Southern,1
+42862,Airports,3
+42862,Ethiopian,3
+43277,American (New),13
+43277,Wine Bars,5
+43277,Vegetarian,6
+43277,Soul Food,3
+43277,Pubs,7
+43277,British,3
+43277,Climbing,3
+43277,Irish,1
+43277,Gastropubs,3
+43277,Southern,3
+43277,Tapas/Small Plates,4
+43320,American (New),13
+43320,Wine Bars,3
+43320,Vegetarian,1
+43320,Soul Food,6
+43320,Latin American,3
+43320,Vegan,1
+43320,Pubs,13
+43320,British,4
+43320,Irish,6
+43320,Breweries,7
+43320,Southern,3
+43320,Fondue,3
+43320,Scandinavian,3
+43533,American (New),19
+43533,Wine Bars,9
+43533,Vegetarian,1
+43533,Sushi Bars,3
+43533,Vegan,4
+43533,Pubs,4
+43533,British,1
+43533,Climbing,3
+43533,Gastropubs,3
+43533,Breweries,3
+43533,Tapas/Small Plates,3
+43746,American (New),17
+43746,Wine Bars,9
+43746,Vegetarian,6
+43746,Sushi Bars,9
+43746,Vegan,6
+43746,Pubs,3
+43746,Botanical Gardens,3
+43746,Breweries,3
+43746,Ethiopian,3
+43746,Tapas/Small Plates,3
+44262,American (New),19
+44262,Wine Bars,3
+44262,Vegetarian,4
+44262,Sushi Bars,7
+44262,Latin American,2
+44262,Vegan,2
+44262,Pubs,4
+44262,British,3
+44262,Gastropubs,3
+44262,Tapas/Small Plates,3
+44273,American (New),15
+44273,Wine Bars,6
+44273,Vegetarian,3
+44273,Sushi Bars,17
+44273,Latin American,6
+44273,Pubs,3
+44273,Climbing,3
+44273,Gastropubs,7
+44273,Breweries,3
+44273,Airports,1
+44273,Tapas/Small Plates,1
+44876,American (New),31
+44876,Wine Bars,6
+44876,Vegetarian,1
+44876,Sushi Bars,11
+44876,Pubs,19
+44876,Szechuan,3
+44876,Irish,15
+44876,Breweries,4
+44876,Airports,1
+44876,Piano Bars,3
+44876,Tapas/Small Plates,3
+44974,American (New),21
+44974,Wine Bars,6
+44974,Vegetarian,17
+44974,Sushi Bars,3
+44974,Latin American,6
+44974,Vegan,15
+44974,Pubs,6
+44974,Brazilian,1
+44974,Irish,1
+44974,Breweries,1
+45031,American (New),57
+45031,Wine Bars,13
+45031,Vegetarian,4
+45031,Sushi Bars,6
+45031,Latin American,4
+45031,Vegan,1
+45031,Pubs,3
+45031,British,3
+45031,Szechuan,3
+45031,Brazilian,3
+45031,Gastropubs,6
+45031,Breweries,6
+45064,American (New),17
+45064,Wine Bars,11
+45064,Vegetarian,3
+45064,Latin American,4
+45064,Vegan,6
+45064,Pubs,11
+45064,British,4
+45064,Breweries,3
+45064,African,3
+45064,Ethiopian,3
+45064,Tapas/Small Plates,1
+45322,American (New),37
+45322,German,3
+45322,Wine Bars,4
+45322,Vegetarian,2
+45322,Soul Food,6
+45322,Sushi Bars,6
+45322,Latin American,6
+45322,Pubs,9
+45322,British,3
+45322,Irish,6
+45322,Gastropubs,6
+45322,Breweries,3
+45322,Southern,6
+45322,Airports,1
+45322,Tapas/Small Plates,1
+45495,American (New),49
+45495,Wine Bars,8
+45495,Vegetarian,5
+45495,Sushi Bars,7
+45495,Latin American,8
+45495,Vegan,1
+45495,Pubs,4
+45495,Gastropubs,12
+45495,Breweries,1
+45495,Cambodian,3
+45495,Tapas/Small Plates,4
+45495,Scandinavian,7
+45844,American (New),17
+45844,Wine Bars,7
+45844,Vegetarian,1
+45844,Soul Food,1
+45844,Sushi Bars,3
+45844,Vegan,1
+45844,Pubs,9
+45844,British,3
+45844,Irish,1
+45844,Breweries,4
+45844,Southern,1
+45844,Scandinavian,3
+45923,American (New),171
+45923,German,6
+45923,Wine Bars,37
+45923,Vegetarian,10
+45923,Sushi Bars,13
+45923,Latin American,15
+45923,Pubs,25
+45923,Irish,8
+45923,Gastropubs,21
+45923,Breweries,17
+45923,Modern European,3
+45923,Piano Bars,3
+45923,Cambodian,3
+45923,Tapas/Small Plates,10
+45923,Food Court,3
+45923,Brasseries,3
+46524,American (New),31
+46524,Wine Bars,11
+46524,Vegetarian,6
+46524,Sushi Bars,8
+46524,Latin American,6
+46524,Vegan,3
+46524,Pubs,6
+46524,Gastropubs,3
+46524,Breweries,3
+46524,Southern,1
+46833,American (New),37
+46833,German,1
+46833,Wine Bars,6
+46833,Vegetarian,8
+46833,Soul Food,6
+46833,Sushi Bars,1
+46833,Latin American,12
+46833,Vegan,3
+46833,Pubs,6
+46833,Szechuan,2
+46833,Botanical Gardens,3
+46833,Breweries,3
+46833,Southern,7
+46865,American (New),53
+46865,German,7
+46865,Wine Bars,15
+46865,Vegetarian,7
+46865,Soul Food,3
+46865,Sushi Bars,23
+46865,Latin American,6
+46865,Vegan,4
+46865,Pubs,11
+46865,British,3
+46865,Brazilian,3
+46865,Irish,1
+46865,Southern,3
+46865,Airports,1
+46865,Modern European,3
+46865,Piano Bars,3
+46865,Fondue,6
+46865,Tapas/Small Plates,1
+47064,American (New),31
+47064,German,1
+47064,Wine Bars,9
+47064,Vegetarian,12
+47064,Soul Food,6
+47064,Sushi Bars,1
+47064,Latin American,3
+47064,Vegan,1
+47064,Pubs,5
+47064,British,7
+47064,Southern,7
+47064,Piano Bars,3
+47067,American (New),29
+47067,Wine Bars,7
+47067,Vegetarian,3
+47067,Soul Food,3
+47067,Sushi Bars,5
+47067,Latin American,3
+47067,Vegan,3
+47067,Pubs,13
+47067,British,3
+47067,Irish,9
+47067,Breweries,1
+47067,African,3
+47067,Southern,4
+47067,Airports,3
+47067,Ethiopian,3
+47517,American (New),25
+47517,Wine Bars,3
+47517,Vegetarian,3
+47517,Latin American,3
+47517,Vegan,3
+47517,Pubs,9
+47517,Botanical Gardens,3
+47517,Zoos,3
+47517,Irish,3
+47517,Breweries,6
+47517,African,3
+47517,Ethiopian,3
+47701,American (New),9
+47701,German,1
+47701,Wine Bars,1
+47701,Vegetarian,2
+47701,Sushi Bars,5
+47701,Latin American,3
+47701,Vegan,3
+47701,Gastropubs,3
+47701,African,3
+47701,Ethiopian,3
+47868,American (New),45
+47868,Wine Bars,11
+47868,Vegetarian,7
+47868,Soul Food,3
+47868,Sushi Bars,13
+47868,Latin American,11
+47868,Vegan,4
+47868,Pubs,15
+47868,British,1
+47868,Irish,6
+47868,Breweries,2
+47868,African,3
+47868,Southern,6
+47868,Ethiopian,3
+47868,Tapas/Small Plates,6
+47868,Food Court,1
+47878,American (New),29
+47878,Wine Bars,9
+47878,Vegetarian,8
+47878,Sushi Bars,3
+47878,Vegan,3
+47878,Pubs,17
+47878,British,3
+47878,Irish,4
+47878,Gastropubs,3
+47878,Breweries,9
+47878,Southern,1
+47878,Airports,3
+47878,Modern European,3
+47878,Tapas/Small Plates,3
+47878,Scandinavian,3
+47890,American (New),29
+47890,Wine Bars,11
+47890,Vegetarian,1
+47890,Sushi Bars,17
+47890,Vegan,1
+47890,Pubs,3
+47890,Gastropubs,1
+47890,Airports,3
+47890,Modern European,3
+47890,Fondue,3
+47929,American (New),47
+47929,Wine Bars,23
+47929,Vegetarian,3
+47929,Sushi Bars,13
+47929,Latin American,1
+47929,Pubs,11
+47929,British,1
+47929,Botanical Gardens,3
+47929,Irish,6
+47929,Breweries,5
+47929,Airports,3
+47929,Tapas/Small Plates,3
+49035,American (New),15
+49035,Vegetarian,6
+49035,Sushi Bars,3
+49035,Vegan,3
+49035,Pubs,13
+49035,British,3
+49035,Irish,4
+49035,Breweries,3
+49035,African,3
+49035,Airports,3
+49035,Ethiopian,3
+49065,American (New),7
+49065,Wine Bars,4
+49065,Vegetarian,3
+49065,Sushi Bars,9
+49065,Latin American,3
+49065,Vegan,3
+49065,Pubs,1
+49065,British,1
+49065,Botanical Gardens,3
+49065,Southern,1
+50208,Vegetarian,13
+50208,Soul Food,3
+50208,Sushi Bars,10
+50208,Vegan,19
+50208,Pubs,4
+50208,British,3
+50208,Botanical Gardens,6
+50208,Breweries,1
+50208,African,3
+50208,Southern,4
+50208,Ethiopian,4
+50803,American (New),31
+50803,German,3
+50803,Wine Bars,9
+50803,Vegetarian,9
+50803,Soul Food,4
+50803,Sushi Bars,13
+50803,Latin American,6
+50803,Vegan,3
+50803,Pubs,15
+50803,British,3
+50803,Climbing,3
+50803,Szechuan,3
+50803,Irish,4
+50803,Breweries,3
+50803,Southern,1
+50803,Tapas/Small Plates,3
+50899,American (New),17
+50899,Wine Bars,3
+50899,Vegetarian,9
+50899,Soul Food,1
+50899,Sushi Bars,3
+50899,Vegan,1
+50899,Zoos,3
+50899,African,1
+50899,Southern,4
+50899,Ethiopian,1
+50951,American (New),63
+50951,Wine Bars,27
+50951,Vegetarian,11
+50951,Sushi Bars,15
+50951,Latin American,3
+50951,Vegan,1
+50951,Pubs,17
+50951,British,6
+50951,Szechuan,3
+50951,Brazilian,3
+50951,Irish,3
+50951,Gastropubs,9
+50951,Breweries,9
+50951,Southern,1
+50951,Piano Bars,3
+50951,Tapas/Small Plates,4
+51082,American (New),13
+51082,Wine Bars,1
+51082,Soul Food,3
+51082,Sushi Bars,3
+51082,Pubs,7
+51082,British,3
+51082,Irish,1
+51082,Gastropubs,3
+51082,Breweries,3
+51082,Southern,3
+51082,Modern European,3
+51082,Piano Bars,1
+51156,American (New),35
+51156,German,4
+51156,Wine Bars,6
+51156,Vegetarian,6
+51156,Sushi Bars,6
+51156,Latin American,3
+51156,Pubs,6
+51156,Breweries,3
+51156,Fondue,3
+51156,Food Court,3
+51332,American (New),21
+51332,Wine Bars,5
+51332,Vegetarian,13
+51332,Sushi Bars,10
+51332,Latin American,4
+51332,Vegan,7
+51332,Pubs,9
+51332,British,3
+51332,Irish,3
+51332,Breweries,3
+51332,Ethiopian,3
+51332,Piano Bars,1
+51540,American (New),17
+51540,Wine Bars,6
+51540,Vegetarian,7
+51540,Sushi Bars,29
+51540,Vegan,3
+51540,Pubs,1
+51540,British,1
+51540,Climbing,3
+51540,Botanical Gardens,3
+51540,Gastropubs,3
+51540,Tapas/Small Plates,6
+51540,Food Court,1
+52355,American (New),31
+52355,Wine Bars,1
+52355,Vegetarian,6
+52355,Sushi Bars,6
+52355,Vegan,6
+52355,Pubs,3
+52355,British,3
+52355,Gastropubs,6
+52355,Southern,3
+52355,Scandinavian,1
+52374,American (New),33
+52374,Wine Bars,11
+52374,Vegetarian,10
+52374,Sushi Bars,15
+52374,Latin American,5
+52374,Pubs,15
+52374,Szechuan,3
+52374,Irish,3
+52374,Breweries,15
+52374,Fondue,1
+52374,Tapas/Small Plates,1
+52478,German,3
+52478,Vegetarian,6
+52478,Soul Food,1
+52478,Sushi Bars,4
+52478,Vegan,3
+52478,Pubs,4
+52478,British,3
+52478,African,3
+52478,Southern,1
+52478,Ethiopian,3
+52655,American (New),19
+52655,German,4
+52655,Wine Bars,10
+52655,Vegetarian,2
+52655,Sushi Bars,11
+52655,Latin American,9
+52655,Pubs,13
+52655,British,3
+52655,Irish,3
+52655,Breweries,2
+52655,Southern,1
+52655,Tapas/Small Plates,3
+52750,American (New),19
+52750,Wine Bars,6
+52750,Vegetarian,3
+52750,Sushi Bars,2
+52750,Vegan,7
+52750,Breweries,4
+52750,African,1
+52750,Modern European,1
+52750,Ethiopian,1
+52750,Piano Bars,3
+52827,American (New),17
+52827,Vegetarian,3
+52827,Soul Food,6
+52827,Vegan,4
+52827,Pubs,7
+52827,Irish,1
+52827,Breweries,4
+52827,African,1
+52827,Southern,6
+52827,Ethiopian,1
+52827,Fondue,3
+53391,American (New),19
+53391,Wine Bars,7
+53391,Vegetarian,4
+53391,Sushi Bars,17
+53391,Latin American,3
+53391,Vegan,6
+53391,Pubs,3
+53391,British,3
+53391,Breweries,7
+53391,African,3
+53391,Airports,3
+53391,Ethiopian,3
+53653,American (New),55
+53653,German,3
+53653,Wine Bars,10
+53653,Vegetarian,23
+53653,Soul Food,3
+53653,Sushi Bars,21
+53653,Vegan,12
+53653,Pubs,19
+53653,British,6
+53653,Climbing,3
+53653,Botanical Gardens,3
+53653,Zoos,3
+53653,Irish,3
+53653,Gastropubs,6
+53653,Breweries,10
+53653,Southern,3
+53653,Airports,1
+53653,Modern European,1
+53653,Tapas/Small Plates,4
+54440,American (New),37
+54440,Wine Bars,11
+54440,Vegetarian,11
+54440,Sushi Bars,11
+54440,Latin American,3
+54440,Vegan,8
+54440,Pubs,2
+54440,British,4
+54440,Botanical Gardens,1
+54440,Gastropubs,1
+54440,Breweries,2
+54440,Ethiopian,3
+54440,Tapas/Small Plates,3
+54440,Scandinavian,1
+54635,American (New),37
+54635,Wine Bars,17
+54635,Vegetarian,7
+54635,Soul Food,3
+54635,Latin American,6
+54635,Vegan,6
+54635,Pubs,3
+54635,Southern,3
+54635,Airports,3
+54635,Fondue,3
+54635,Tapas/Small Plates,3
+54635,Food Court,1
+54761,American (New),15
+54761,German,3
+54761,Wine Bars,9
+54761,Vegetarian,1
+54761,Soul Food,3
+54761,Sushi Bars,11
+54761,Latin American,9
+54761,Vegan,1
+54761,Climbing,3
+54761,Botanical Gardens,3
+54761,Zoos,3
+54761,Southern,4
+54761,Fondue,3
+54950,American (New),19
+54950,German,3
+54950,Sushi Bars,3
+54950,Pubs,4
+54950,British,3
+54950,Climbing,3
+54950,Brazilian,3
+54950,Irish,1
+54950,Breweries,3
+54950,Airports,3
+54950,Food Court,1
+55051,American (New),51
+55051,Wine Bars,9
+55051,Vegetarian,13
+55051,Sushi Bars,17
+55051,Latin American,1
+55051,Vegan,5
+55051,Pubs,17
+55051,British,3
+55051,Szechuan,3
+55051,Brazilian,3
+55051,Irish,6
+55051,Breweries,11
+55051,Southern,1
+55051,Airports,1
+55051,Tapas/Small Plates,3
+55105,American (New),33
+55105,Wine Bars,15
+55105,Vegetarian,3
+55105,Sushi Bars,6
+55105,Latin American,7
+55105,Pubs,4
+55105,British,3
+55105,Szechuan,1
+55105,Zoos,3
+55105,Irish,1
+55105,Southern,1
+55105,Airports,3
+55105,Tapas/Small Plates,3
+55386,American (New),17
+55386,Vegetarian,2
+55386,Soul Food,3
+55386,Latin American,4
+55386,Pubs,9
+55386,British,3
+55386,Irish,3
+55386,Breweries,2
+55386,Southern,4
+55386,Scandinavian,3
+55763,American (New),35
+55763,German,3
+55763,Wine Bars,3
+55763,Vegetarian,6
+55763,Soul Food,3
+55763,Latin American,3
+55763,Vegan,3
+55763,Pubs,6
+55763,Irish,3
+55763,Gastropubs,3
+55763,Breweries,3
+55763,Southern,3
+55763,Tapas/Small Plates,3
+56124,American (New),6
+56124,German,1
+56124,Wine Bars,7
+56124,Vegetarian,3
+56124,Soul Food,3
+56124,Sushi Bars,1
+56124,Pubs,9
+56124,Irish,3
+56124,Southern,3
+56124,Tapas/Small Plates,3
+56927,American (New),31
+56927,German,3
+56927,Wine Bars,3
+56927,Soul Food,3
+56927,Pubs,9
+56927,Szechuan,3
+56927,Zoos,3
+56927,Gastropubs,3
+56927,Southern,3
+56927,Food Court,3
+57115,American (New),11
+57115,Wine Bars,4
+57115,Vegetarian,3
+57115,Sushi Bars,3
+57115,Pubs,6
+57115,British,3
+57115,Climbing,1
+57115,Breweries,6
+57115,Southern,1
+57115,Tapas/Small Plates,1
+57416,American (New),15
+57416,Wine Bars,4
+57416,Vegetarian,3
+57416,Sushi Bars,5
+57416,Latin American,3
+57416,Vegan,3
+57416,Pubs,2
+57416,British,1
+57416,Gastropubs,3
+57416,Breweries,3
+57416,Tapas/Small Plates,1
+57416,Brasseries,3
+57717,American (New),13
+57717,Wine Bars,3
+57717,Vegetarian,9
+57717,Sushi Bars,17
+57717,Latin American,3
+57717,Szechuan,1
+57717,Botanical Gardens,3
+57717,Brazilian,3
+57717,Zoos,3
+57717,Breweries,3
+57764,American (New),15
+57764,Wine Bars,3
+57764,Vegetarian,6
+57764,Sushi Bars,7
+57764,Pubs,3
+57764,Brazilian,3
+57764,Zoos,3
+57764,Irish,3
+57764,Breweries,1
+57764,Fondue,3
+57764,Tapas/Small Plates,3
+57785,American (New),21
+57785,Wine Bars,7
+57785,Vegetarian,7
+57785,Soul Food,3
+57785,Sushi Bars,3
+57785,Vegan,3
+57785,Pubs,11
+57785,British,6
+57785,Irish,4
+57785,Breweries,2
+57785,Southern,3
+58123,American (New),31
+58123,Wine Bars,15
+58123,Vegetarian,6
+58123,Soul Food,9
+58123,Sushi Bars,15
+58123,Vegan,6
+58123,Pubs,15
+58123,British,3
+58123,Szechuan,1
+58123,Irish,4
+58123,Gastropubs,3
+58123,Breweries,1
+58123,African,3
+58123,Southern,8
+58123,Airports,1
+58123,Ethiopian,3
+58123,Tapas/Small Plates,3
+58123,Food Court,3
+58130,American (New),31
+58130,Wine Bars,10
+58130,Vegetarian,2
+58130,Soul Food,3
+58130,Sushi Bars,9
+58130,Latin American,6
+58130,Vegan,10
+58130,Pubs,1
+58130,British,1
+58130,Botanical Gardens,3
+58130,Brazilian,3
+58130,Southern,4
+58546,American (New),33
+58546,Wine Bars,4
+58546,Vegetarian,25
+58546,Soul Food,6
+58546,Sushi Bars,15
+58546,Latin American,8
+58546,Vegan,21
+58546,Pubs,9
+58546,British,4
+58546,Climbing,3
+58546,Zoos,6
+58546,Irish,3
+58546,Breweries,2
+58546,Southern,7
+58546,Airports,4
+58546,Ethiopian,3
+58546,Cambodian,3
+58546,Scandinavian,6
+58554,American (New),9
+58554,Wine Bars,3
+58554,Vegetarian,3
+58554,Vegan,6
+58554,Pubs,6
+58554,British,3
+58554,Irish,3
+58554,Breweries,3
+58554,African,3
+58554,Ethiopian,3
+58606,American (New),10
+58606,Wine Bars,3
+58606,Vegetarian,9
+58606,Sushi Bars,6
+58606,Latin American,3
+58606,Vegan,9
+58606,Climbing,3
+58606,African,3
+58606,Airports,3
+58606,Modern European,3
+58606,Ethiopian,3
+58606,Tapas/Small Plates,3
+58728,American (New),33
+58728,Wine Bars,3
+58728,Vegetarian,13
+58728,Soul Food,6
+58728,Sushi Bars,13
+58728,Vegan,6
+58728,Pubs,9
+58728,British,3
+58728,Brazilian,3
+58728,Gastropubs,3
+58728,Breweries,3
+58728,Southern,3
+58728,Tapas/Small Plates,3
+58749,American (New),33
+58749,German,3
+58749,Wine Bars,9
+58749,Vegetarian,15
+58749,Soul Food,3
+58749,Sushi Bars,4
+58749,Latin American,4
+58749,Vegan,6
+58749,Pubs,7
+58749,British,1
+58749,Gastropubs,4
+58749,Southern,3
+58825,American (New),19
+58825,Wine Bars,6
+58825,Vegetarian,4
+58825,Soul Food,3
+58825,Sushi Bars,5
+58825,Latin American,3
+58825,Vegan,3
+58825,Pubs,9
+58825,Climbing,3
+58825,Zoos,1
+58825,Irish,3
+58825,Breweries,3
+58825,Southern,3
+58852,American (New),25
+58852,Wine Bars,6
+58852,Vegetarian,8
+58852,Soul Food,3
+58852,Sushi Bars,4
+58852,Vegan,1
+58852,Pubs,11
+58852,British,4
+58852,Irish,4
+58852,Breweries,9
+58852,Southern,3
+58852,Piano Bars,3
+58875,American (New),41
+58875,Wine Bars,12
+58875,Vegetarian,3
+58875,Sushi Bars,6
+58875,Latin American,4
+58875,Pubs,15
+58875,British,1
+58875,Irish,6
+58875,Gastropubs,3
+58875,Breweries,6
+58875,Modern European,3
+59261,American (New),33
+59261,Wine Bars,4
+59261,Vegetarian,6
+59261,Soul Food,3
+59261,Sushi Bars,3
+59261,Vegan,3
+59261,Pubs,4
+59261,Szechuan,3
+59261,Irish,1
+59261,Southern,3
+59261,Tapas/Small Plates,1
+59510,American (New),19
+59510,Wine Bars,3
+59510,Vegetarian,3
+59510,Soul Food,3
+59510,Sushi Bars,5
+59510,Latin American,3
+59510,Pubs,10
+59510,British,3
+59510,Irish,3
+59510,Southern,3
+59556,American (New),65
+59556,Wine Bars,15
+59556,Vegetarian,8
+59556,Soul Food,4
+59556,Sushi Bars,13
+59556,Latin American,8
+59556,Vegan,1
+59556,Pubs,11
+59556,British,6
+59556,Botanical Gardens,3
+59556,Irish,2
+59556,Gastropubs,4
+59556,Breweries,2
+59556,Southern,5
+59556,Ethiopian,3
+59556,Fondue,1
+59556,Tapas/Small Plates,9
+59556,Food Court,1
+60148,American (New),39
+60148,German,1
+60148,Wine Bars,19
+60148,Vegetarian,3
+60148,Sushi Bars,9
+60148,Latin American,3
+60148,Vegan,3
+60148,Pubs,15
+60148,British,6
+60148,Botanical Gardens,1
+60148,Brazilian,3
+60148,Irish,3
+60148,Gastropubs,15
+60148,Breweries,9
+60148,Southern,1
+60148,Airports,4
+60148,Cambodian,3
+60148,Tapas/Small Plates,4
+60148,Scandinavian,3
+60148,Food Court,3
+60196,American (New),17
+60196,Vegetarian,1
+60196,Sushi Bars,1
+60196,Latin American,4
+60196,Zoos,3
+60196,Gastropubs,3
+60196,Airports,1
+60196,Piano Bars,3
+60196,Tapas/Small Plates,1
+60196,Brasseries,1
+60346,American (New),53
+60346,German,3
+60346,Wine Bars,13
+60346,Vegetarian,7
+60346,Soul Food,1
+60346,Sushi Bars,8
+60346,Latin American,13
+60346,Pubs,19
+60346,British,3
+60346,Szechuan,4
+60346,Irish,6
+60346,Gastropubs,10
+60346,Breweries,9
+60346,Southern,2
+60346,Fondue,1
+60346,Tapas/Small Plates,3
+60346,Scandinavian,3
+60428,American (New),21
+60428,Wine Bars,11
+60428,Vegetarian,4
+60428,Sushi Bars,5
+60428,Latin American,1
+60428,Pubs,4
+60428,Szechuan,1
+60428,Gastropubs,3
+60428,Breweries,2
+60428,Southern,3
+60428,Tapas/Small Plates,3
+60464,American (New),41
+60464,Wine Bars,9
+60464,Vegetarian,6
+60464,Soul Food,3
+60464,Sushi Bars,9
+60464,Latin American,3
+60464,Vegan,9
+60464,Pubs,25
+60464,Brazilian,3
+60464,Irish,9
+60464,Breweries,9
+60464,Southern,3
+60565,American (New),8
+60565,Wine Bars,1
+60565,Vegetarian,3
+60565,Sushi Bars,11
+60565,Pubs,1
+60565,Botanical Gardens,3
+60565,Gastropubs,1
+60565,Southern,1
+60565,Airports,3
+60565,Modern European,1
+60949,American (New),11
+60949,Wine Bars,3
+60949,Vegetarian,1
+60949,Sushi Bars,8
+60949,Pubs,7
+60949,British,1
+60949,Breweries,7
+60949,Piano Bars,1
+60949,Fondue,1
+60949,Scandinavian,3
+61228,American (New),5
+61228,German,1
+61228,Wine Bars,1
+61228,Vegetarian,4
+61228,Soul Food,3
+61228,Sushi Bars,5
+61228,Pubs,3
+61228,British,3
+61228,Breweries,2
+61228,Southern,4
+61250,American (New),27
+61250,German,3
+61250,Wine Bars,6
+61250,Vegetarian,3
+61250,Sushi Bars,6
+61250,Pubs,13
+61250,Zoos,3
+61250,Irish,2
+61250,Gastropubs,4
+61250,Breweries,6
+61327,American (New),13
+61327,Wine Bars,3
+61327,Soul Food,3
+61327,Sushi Bars,3
+61327,Vegan,1
+61327,Pubs,9
+61327,British,3
+61327,Irish,3
+61327,Breweries,3
+61327,Airports,3
+61399,American (New),29
+61399,Vegetarian,17
+61399,Soul Food,3
+61399,Sushi Bars,21
+61399,Latin American,8
+61399,Vegan,9
+61399,Szechuan,3
+61399,Brazilian,1
+61399,Breweries,3
+61399,Southern,3
+61580,American (New),11
+61580,Vegetarian,3
+61580,Soul Food,1
+61580,Sushi Bars,8
+61580,Latin American,1
+61580,Pubs,3
+61580,British,3
+61580,Southern,1
+61580,Airports,1
+61580,Fondue,6
+61661,American (New),25
+61661,Wine Bars,15
+61661,Vegetarian,1
+61661,Soul Food,3
+61661,Sushi Bars,10
+61661,Latin American,1
+61661,Vegan,1
+61661,Pubs,4
+61661,British,3
+61661,Breweries,7
+61661,African,3
+61661,Southern,3
+61661,Airports,3
+61770,American (New),45
+61770,Wine Bars,17
+61770,Vegetarian,6
+61770,Soul Food,3
+61770,Sushi Bars,7
+61770,Latin American,13
+61770,Pubs,5
+61770,Botanical Gardens,3
+61770,Brazilian,3
+61770,Zoos,3
+61770,Irish,1
+61770,Gastropubs,7
+61770,Breweries,8
+61770,Southern,4
+61770,Scandinavian,1
+62049,American (New),17
+62049,Wine Bars,7
+62049,Vegetarian,12
+62049,Sushi Bars,11
+62049,Latin American,10
+62049,Vegan,12
+62049,Pubs,6
+62049,British,3
+62049,African,3
+62049,Modern European,1
+62049,Ethiopian,4
+62135,American (New),10
+62135,Wine Bars,1
+62135,Vegetarian,5
+62135,Soul Food,3
+62135,Latin American,3
+62135,Vegan,7
+62135,Pubs,4
+62135,Irish,1
+62135,Breweries,3
+62135,African,3
+62135,Southern,3
+62135,Ethiopian,3
+62135,Scandinavian,3
+62179,American (New),71
+62179,Wine Bars,4
+62179,Vegetarian,3
+62179,Sushi Bars,15
+62179,Latin American,7
+62179,Pubs,21
+62179,British,3
+62179,Irish,5
+62179,Gastropubs,9
+62179,Breweries,10
+62179,Airports,1
+62179,Modern European,3
+62179,Scandinavian,3
+62179,Food Court,1
+62358,American (New),21
+62358,Wine Bars,3
+62358,Vegetarian,3
+62358,Sushi Bars,3
+62358,Latin American,3
+62358,Vegan,3
+62358,Pubs,1
+62358,Breweries,3
+62358,African,3
+62358,Southern,3
+62358,Ethiopian,3
+62469,American (New),13
+62469,Wine Bars,9
+62469,Vegetarian,3
+62469,Sushi Bars,2
+62469,Latin American,4
+62469,Vegan,3
+62469,Pubs,4
+62469,British,3
+62469,Gastropubs,4
+62469,African,3
+62469,Ethiopian,3
+62469,Scandinavian,1
+62561,American (New),19
+62561,German,3
+62561,Wine Bars,3
+62561,Soul Food,3
+62561,Sushi Bars,7
+62561,Pubs,12
+62561,Szechuan,3
+62561,Brazilian,3
+62561,Gastropubs,3
+62561,Southern,3
+62561,Airports,1
+62561,Food Court,3
+62595,American (New),23
+62595,German,1
+62595,Wine Bars,8
+62595,Vegetarian,4
+62595,Soul Food,1
+62595,Sushi Bars,6
+62595,Latin American,4
+62595,Pubs,10
+62595,British,3
+62595,Climbing,3
+62595,Breweries,3
+62595,Southern,1
+62595,Food Court,1
+62691,American (New),21
+62691,Wine Bars,11
+62691,Vegetarian,4
+62691,Soul Food,3
+62691,Sushi Bars,4
+62691,Latin American,3
+62691,Vegan,2
+62691,Pubs,4
+62691,Breweries,7
+62691,Southern,3
+62691,Modern European,3
+62691,Piano Bars,1
+62792,American (New),13
+62792,Wine Bars,4
+62792,Vegetarian,15
+62792,Soul Food,3
+62792,Sushi Bars,4
+62792,Latin American,4
+62792,Vegan,12
+62792,Pubs,3
+62792,British,1
+62792,Szechuan,3
+62792,Irish,1
+62792,Breweries,3
+62873,American (New),25
+62873,Wine Bars,5
+62873,Sushi Bars,1
+62873,Latin American,3
+62873,Pubs,10
+62873,British,3
+62873,Irish,3
+62873,Gastropubs,6
+62873,Breweries,3
+62873,Fondue,1
+62873,Scandinavian,3
+63024,American (New),33
+63024,German,1
+63024,Wine Bars,12
+63024,Vegetarian,10
+63024,Soul Food,3
+63024,Latin American,6
+63024,Vegan,10
+63024,Pubs,8
+63024,British,3
+63024,Szechuan,1
+63024,Irish,7
+63024,Breweries,2
+63024,African,1
+63024,Southern,3
+63024,Ethiopian,1
+63024,Piano Bars,1
+63243,American (New),61
+63243,Wine Bars,19
+63243,Vegetarian,4
+63243,Soul Food,3
+63243,Sushi Bars,15
+63243,Latin American,3
+63243,Pubs,23
+63243,British,3
+63243,Szechuan,3
+63243,Irish,10
+63243,Gastropubs,3
+63243,Breweries,17
+63243,Southern,3
+63243,Airports,3
+63243,Modern European,3
+63243,Tapas/Small Plates,3
+63243,Scandinavian,3
+63642,American (New),31
+63642,German,1
+63642,Wine Bars,12
+63642,Sushi Bars,7
+63642,Latin American,10
+63642,Pubs,8
+63642,Gastropubs,7
+63642,Breweries,7
+63642,Fondue,1
+63642,Tapas/Small Plates,7
+63712,American (New),19
+63712,Wine Bars,9
+63712,Vegetarian,3
+63712,Soul Food,3
+63712,Sushi Bars,21
+63712,Latin American,3
+63712,Pubs,17
+63712,British,3
+63712,Zoos,3
+63712,Irish,10
+63712,Breweries,12
+63712,Southern,6
+63769,American (New),37
+63769,German,3
+63769,Wine Bars,17
+63769,Vegetarian,13
+63769,Sushi Bars,13
+63769,Latin American,15
+63769,Vegan,7
+63769,Pubs,10
+63769,Climbing,3
+63769,Szechuan,3
+63769,Irish,4
+63769,Gastropubs,1
+63769,Tapas/Small Plates,4
+63865,American (New),15
+63865,German,3
+63865,Wine Bars,12
+63865,Vegetarian,10
+63865,Sushi Bars,6
+63865,Pubs,6
+63865,Irish,3
+63865,Breweries,1
+63865,Southern,3
+63865,Airports,2
+63865,Modern European,3
+63881,American (New),21
+63881,Wine Bars,9
+63881,Vegetarian,15
+63881,Sushi Bars,4
+63881,Vegan,9
+63881,Pubs,12
+63881,British,6
+63881,Irish,6
+63881,Breweries,3
+63881,Ethiopian,3
+64160,American (New),19
+64160,German,1
+64160,Wine Bars,4
+64160,Vegetarian,3
+64160,Soul Food,3
+64160,Sushi Bars,1
+64160,Pubs,5
+64160,Climbing,3
+64160,Irish,1
+64160,Breweries,3
+64160,Tapas/Small Plates,3
+64250,American (New),19
+64250,Wine Bars,7
+64250,Vegetarian,1
+64250,Sushi Bars,10
+64250,Vegan,6
+64250,Pubs,11
+64250,British,3
+64250,Irish,4
+64250,African,3
+64250,Southern,1
+64250,Ethiopian,3
+64250,Tapas/Small Plates,3
+64546,American (New),59
+64546,Wine Bars,23
+64546,Vegetarian,8
+64546,Soul Food,3
+64546,Sushi Bars,27
+64546,Latin American,3
+64546,Pubs,17
+64546,British,4
+64546,Climbing,3
+64546,Irish,9
+64546,Gastropubs,9
+64546,Breweries,11
+64546,Southern,6
+64546,Modern European,3
+64546,Cambodian,3
+64546,Tapas/Small Plates,7
+64546,Food Court,3
+64715,American (New),8
+64715,Soul Food,6
+64715,Latin American,3
+64715,Pubs,3
+64715,British,3
+64715,Southern,6
+64715,Airports,3
+64715,Cambodian,3
+64715,Scandinavian,3
+64715,Food Court,1
+64744,American (New),19
+64744,Wine Bars,6
+64744,Sushi Bars,5
+64744,Latin American,1
+64744,Pubs,17
+64744,British,3
+64744,Climbing,3
+64744,Zoos,1
+64744,Irish,3
+64744,Breweries,13
+65002,American (New),23
+65002,Wine Bars,7
+65002,Vegetarian,3
+65002,Sushi Bars,9
+65002,Vegan,6
+65002,Pubs,11
+65002,Irish,3
+65002,Gastropubs,1
+65002,Breweries,6
+65002,Airports,3
+65002,Cambodian,3
+65002,Food Court,1
+65176,American (New),31
+65176,Wine Bars,6
+65176,Vegetarian,11
+65176,Soul Food,3
+65176,Sushi Bars,5
+65176,Latin American,3
+65176,Vegan,4
+65176,Pubs,3
+65176,Zoos,3
+65176,Southern,3
+65204,American (New),27
+65204,Wine Bars,9
+65204,Vegetarian,4
+65204,Soul Food,6
+65204,Sushi Bars,3
+65204,Latin American,3
+65204,Vegan,6
+65204,Pubs,3
+65204,Zoos,3
+65204,African,3
+65204,Southern,6
+65204,Ethiopian,6
+65467,American (New),59
+65467,Wine Bars,10
+65467,Vegetarian,23
+65467,Sushi Bars,9
+65467,Vegan,9
+65467,Pubs,17
+65467,British,6
+65467,Irish,3
+65467,Gastropubs,6
+65467,Breweries,12
+65467,Airports,1
+65467,Modern European,1
+65467,Ethiopian,1
+65467,Tapas/Small Plates,7
+65467,Food Court,3
+65529,American (New),9
+65529,Sushi Bars,6
+65529,Pubs,6
+65529,British,3
+65529,Zoos,4
+65529,Irish,3
+65529,Gastropubs,1
+65529,Breweries,1
+65529,Airports,6
+65529,Scandinavian,3
+65593,American (New),19
+65593,Wine Bars,7
+65593,Vegetarian,3
+65593,Sushi Bars,4
+65593,Latin American,1
+65593,Vegan,3
+65593,Pubs,4
+65593,Gastropubs,6
+65593,Breweries,1
+65593,Southern,1
+65712,American (New),3
+65712,German,3
+65712,Sushi Bars,3
+65712,Latin American,1
+65712,Vegan,3
+65712,African,3
+65712,Modern European,3
+65712,Ethiopian,3
+65712,Scandinavian,3
+65712,Food Court,3
+66165,American (New),2
+66165,Vegetarian,3
+66165,Soul Food,1
+66165,Sushi Bars,6
+66165,Latin American,1
+66165,Vegan,3
+66165,Pubs,3
+66165,British,3
+66165,Breweries,3
+66165,Southern,1
+66271,American (New),5
+66271,German,3
+66271,Vegetarian,3
+66271,Soul Food,6
+66271,Sushi Bars,13
+66271,Vegan,4
+66271,Pubs,3
+66271,Szechuan,3
+66271,Brazilian,3
+66271,Southern,6
+66343,American (New),15
+66343,German,3
+66343,Vegetarian,2
+66343,Sushi Bars,11
+66343,Latin American,6
+66343,Vegan,2
+66343,Pubs,6
+66343,Szechuan,3
+66343,Irish,4
+66343,Breweries,10
+66343,Fondue,3
+66437,American (New),25
+66437,German,1
+66437,Wine Bars,7
+66437,Vegetarian,8
+66437,Sushi Bars,3
+66437,Latin American,6
+66437,Vegan,1
+66437,Pubs,1
+66437,British,1
+66437,Szechuan,1
+66437,African,1
+66437,Airports,3
+66437,Fondue,3
+66603,American (New),9
+66603,Wine Bars,3
+66603,Vegetarian,3
+66603,Soul Food,3
+66603,Sushi Bars,9
+66603,Pubs,9
+66603,Irish,3
+66603,Breweries,4
+66603,Southern,3
+66603,Tapas/Small Plates,3
+66629,American (New),15
+66629,German,1
+66629,Wine Bars,3
+66629,Vegetarian,5
+66629,Soul Food,3
+66629,Sushi Bars,1
+66629,Latin American,3
+66629,Vegan,3
+66629,Pubs,7
+66629,Gastropubs,3
+66629,Breweries,3
+66629,Southern,3
+66695,American (New),15
+66695,Wine Bars,5
+66695,Soul Food,1
+66695,Sushi Bars,6
+66695,Latin American,6
+66695,Pubs,15
+66695,British,3
+66695,Brazilian,3
+66695,Irish,4
+66695,Gastropubs,9
+66695,Breweries,4
+66695,Southern,1
+66695,Modern European,3
+66695,Tapas/Small Plates,4
+66721,American (New),9
+66721,Wine Bars,6
+66721,Vegetarian,1
+66721,Sushi Bars,4
+66721,Vegan,4
+66721,Pubs,8
+66721,British,1
+66721,Botanical Gardens,1
+66721,Irish,3
+66721,Breweries,3
+66721,African,3
+66721,Ethiopian,4
+66721,Scandinavian,1
+66751,American (New),29
+66751,Wine Bars,6
+66751,Vegetarian,3
+66751,Sushi Bars,9
+66751,Vegan,3
+66751,Pubs,15
+66751,British,3
+66751,Irish,1
+66751,Breweries,3
+66751,Southern,1
+67088,American (New),31
+67088,Wine Bars,9
+67088,Vegetarian,6
+67088,Soul Food,3
+67088,Sushi Bars,11
+67088,Latin American,3
+67088,Pubs,9
+67088,Irish,6
+67088,Gastropubs,3
+67088,Southern,3
+67088,Tapas/Small Plates,3
+67088,Food Court,3
+67241,American (New),13
+67241,Soul Food,3
+67241,Sushi Bars,1
+67241,Pubs,13
+67241,Szechuan,1
+67241,Botanical Gardens,3
+67241,Irish,6
+67241,Gastropubs,3
+67241,Breweries,9
+67241,Southern,3
+67299,American (New),15
+67299,German,1
+67299,Wine Bars,3
+67299,Vegetarian,7
+67299,Soul Food,6
+67299,Latin American,3
+67299,Vegan,4
+67299,Pubs,19
+67299,British,3
+67299,Szechuan,1
+67299,Irish,17
+67299,Gastropubs,1
+67299,Breweries,7
+67299,Southern,6
+67299,Fondue,3
+67361,American (New),27
+67361,German,3
+67361,Wine Bars,4
+67361,Vegetarian,3
+67361,Soul Food,3
+67361,Sushi Bars,6
+67361,Latin American,3
+67361,Pubs,3
+67361,Gastropubs,3
+67361,Southern,3
+67391,American (New),23
+67391,Wine Bars,12
+67391,Vegetarian,3
+67391,Soul Food,1
+67391,Sushi Bars,10
+67391,Vegan,3
+67391,Pubs,13
+67391,Irish,3
+67391,Breweries,3
+67391,Southern,1
+67391,Modern European,3
+67391,Ethiopian,3
+67551,American (New),15
+67551,Wine Bars,1
+67551,Vegetarian,2
+67551,Soul Food,3
+67551,Sushi Bars,7
+67551,Vegan,1
+67551,Pubs,3
+67551,British,3
+67551,Szechuan,1
+67551,Zoos,3
+67551,Gastropubs,3
+67551,Southern,3
+67974,American (New),41
+67974,Wine Bars,19
+67974,Vegetarian,15
+67974,Sushi Bars,3
+67974,Vegan,3
+67974,Pubs,3
+67974,British,3
+67974,Irish,3
+67974,Gastropubs,1
+67974,Breweries,3
+67974,Southern,3
+67974,Piano Bars,1
+67989,American (New),19
+67989,German,1
+67989,Wine Bars,12
+67989,Vegetarian,4
+67989,Soul Food,3
+67989,Sushi Bars,11
+67989,Pubs,19
+67989,British,3
+67989,Zoos,3
+67989,Irish,10
+67989,Breweries,11
+67989,Southern,4
+67989,Airports,1
+68339,American (New),9
+68339,Wine Bars,1
+68339,Vegetarian,6
+68339,Sushi Bars,1
+68339,Vegan,3
+68339,Pubs,6
+68339,British,3
+68339,Climbing,3
+68339,Irish,3
+68339,Southern,1
+68540,American (New),13
+68540,Wine Bars,6
+68540,Vegetarian,7
+68540,Soul Food,3
+68540,Sushi Bars,4
+68540,Latin American,6
+68540,Vegan,3
+68540,Pubs,3
+68540,British,3
+68540,Southern,4
+68540,Piano Bars,1
+68540,Fondue,3
+69064,American (New),21
+69064,Wine Bars,4
+69064,Vegetarian,9
+69064,Soul Food,3
+69064,Sushi Bars,3
+69064,Vegan,12
+69064,Climbing,3
+69064,African,3
+69064,Ethiopian,3
+69064,Fondue,3
+69064,Cambodian,3
+69413,American (New),23
+69413,German,3
+69413,Wine Bars,3
+69413,Vegetarian,3
+69413,Sushi Bars,9
+69413,Pubs,15
+69413,British,3
+69413,Climbing,3
+69413,Breweries,7
+69413,Tapas/Small Plates,3
+69413,Food Court,3
+69463,American (New),31
+69463,German,3
+69463,Wine Bars,17
+69463,Vegetarian,11
+69463,Sushi Bars,6
+69463,Latin American,1
+69463,Vegan,6
+69463,Pubs,6
+69463,Gastropubs,12
+69463,Breweries,9
+69463,Modern European,1
+69463,Tapas/Small Plates,4
+69463,Scandinavian,3
+69618,American (New),19
+69618,Wine Bars,9
+69618,Vegetarian,3
+69618,Soul Food,3
+69618,Sushi Bars,10
+69618,Pubs,4
+69618,British,3
+69618,Irish,1
+69618,Southern,3
+69618,Piano Bars,3
+69618,Brasseries,3
+69689,American (New),5
+69689,Wine Bars,1
+69689,Vegetarian,4
+69689,Sushi Bars,3
+69689,Latin American,1
+69689,Vegan,3
+69689,Pubs,3
+69689,British,3
+69689,Irish,3
+69689,Gastropubs,1
+70465,American (New),51
+70465,Wine Bars,7
+70465,Vegetarian,15
+70465,Soul Food,3
+70465,Sushi Bars,15
+70465,Latin American,3
+70465,Pubs,13
+70465,Szechuan,1
+70465,Irish,6
+70465,Breweries,8
+70465,Southern,3
+70465,Airports,3
+70465,Fondue,3
+70465,Scandinavian,1
+70465,Food Court,3
+70628,American (New),49
+70628,Wine Bars,13
+70628,Soul Food,1
+70628,Sushi Bars,11
+70628,Latin American,7
+70628,Pubs,15
+70628,Climbing,3
+70628,Szechuan,3
+70628,Zoos,3
+70628,Irish,6
+70628,Breweries,6
+70628,Southern,1
+70628,Tapas/Small Plates,3
