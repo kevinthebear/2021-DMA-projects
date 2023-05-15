@@ -1,0 +1,81 @@
+﻿attribute_id,attribute_name
+1,Alcohol
+2,Waiter Service
+3,Delivery
+4,Attire
+5,Good for Kids
+6,Take-out
+7,Accepts Credit Cards
+8,Price Range
+9,Takes Reservations
+10,Noise Level
+11,Has TV
+12,Wheelchair Accessible
+13,Good For Groups
+14,Outdoor Seating
+15,Wi-Fi
+16,Caters
+17,By Appointment Only
+18,Accepts Insurance
+19,Coat Check
+20,Smoking
+21,Good For Dancing
+22,Drive-Thru
+23,Happy Hour
+24,Order at Counter
+25,Open 24 Hours
+26,Dogs Allowed
+27,BYOB
+28,BYOB/Corkage
+29,Corkage
+30,Ages Allowed
+31,ambience_classy
+32,ambience_hipster
+33,ambience_touristy
+34,ambience_divey
+35,ambience_casual
+36,ambience_intimate
+37,ambience_romantic
+38,ambience_trendy
+39,ambience_upscale
+40,ambience_none
+41,dietary_restrictions_soy-free
+42,dietary_restrictions_vegan
+43,dietary_restrictions_gluten-free
+44,dietary_restrictions_kosher
+45,dietary_restrictions_dairy-free
+46,dietary_restrictions_vegetarian
+47,dietary_restrictions_halal
+48,good_for_dinner
+49,good_for_latenight
+50,good_for_breakfast
+51,good_for_brunch
+52,good_for_lunch
+53,good_for_dessert
+54,good_for_none
+55,hair_types_specialized_incurly
+56,hair_types_specialized_inperms
+57,hair_types_specialized_inafricanamerican
+58,hair_types_specialized_instraightperms
+59,hair_types_specialized_incoloring
+60,hair_types_specialized_inkids
+61,hair_types_specialized_inextensions
+62,hair_types_specialized_inasian
+63,music_karaoke
+64,music_background_music
+65,music_dj
+66,music_jukebox
+67,music_video
+68,music_live
+69,music_playlist
+70,parking_street
+71,parking_garage
+72,parking_lot
+73,parking_valet
+74,parking_validated
+75,parking_none
+76,payment_types_cash_only
+77,payment_types_mastercard
+78,payment_types_discover
+79,payment_types_amex
+80,payment_types_visa
