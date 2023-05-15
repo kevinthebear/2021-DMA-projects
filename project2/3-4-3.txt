@@ -1,0 +1,60 @@
+User ID 20384 top-5 results
+Category NAME Latin American
+	score 5.896669058851092
+Category NAME Brasseries
+	score 4.171053481748391
+Category NAME Irish
+	score 4.06162637337661
+Category NAME Ethiopian
+	score 4.002690580244236
+Category NAME Cambodian
+	score 3.5084625342915126
+
+User ID 33306 top-5 results
+Category NAME Sushi Bars
+	score 10
+Category NAME Brazilian
+	score 4.046038316947561
+Category NAME Botanical Gardens
+	score 4.0264213837371265
+Category NAME Southern
+	score 3.997109159730682
+Category NAME Latin American
+	score 3.9898883232978517
+
+User ID 46833 top-5 results
+Category NAME Tapas/Small Plates
+	score 5.335100231657497
+Category NAME Gastropubs
+	score 4.552914533419441
+Category NAME Scandinavian
+	score 3.887261681438968
+Category NAME Ethiopian
+	score 3.6157369198495104
+Category NAME Brasseries
+	score 3.5388724702730214
+
+User ID 535 top-5 results
+Category NAME Gastropubs
+	score 5.287153031509879
+Category NAME Latin American
+	score 4.816689962148566
+Category NAME Cambodian
+	score 4.120196365561053
+Category NAME Tapas/Small Plates
+	score 3.8944711922122703
+Category NAME German
+	score 3.875420475488772
+
+User ID 70628 top-5 results
+Category NAME Vegetarian
+	score 9.097503451020948
+Category NAME Gastropubs
+	score 6.703090942614958
+Category NAME Vegan
+	score 4.434460042085663
+Category NAME British
+	score 3.388956964269488
+Category NAME Cambodian
+	score 2.8870642890737113
+

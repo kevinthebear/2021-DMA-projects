@@ -1,0 +1,60 @@
+User ID 20384 top-5 results
+Category NAME Latin American
+	score 4.993575476250616
+Category NAME Ethiopian
+	score 3.6403547500162956
+Category NAME African
+	score 3.6303795629318527
+Category NAME Zoos
+	score 3.0212488376917515
+Category NAME Fondue
+	score 2.9584343860090474
+
+User ID 33306 top-5 results
+Category NAME Sushi Bars
+	score 8.61326673285692
+Category NAME Latin American
+	score 4.724408044103265
+Category NAME Southern
+	score 4.630860745262811
+Category NAME Soul Food
+	score 4.477084635670861
+Category NAME African
+	score 4.199149486083131
+
+User ID 46833 top-5 results
+Category NAME Gastropubs
+	score 5.088726103521851
+Category NAME British
+	score 3.773857946679592
+Category NAME African
+	score 3.7544537979208767
+Category NAME Ethiopian
+	score 3.683580531934719
+Category NAME Climbing
+	score 3.618059500385438
+
+User ID 535 top-5 results
+Category NAME Latin American
+	score 4.990219463524777
+Category NAME Gastropubs
+	score 4.683326023601298
+Category NAME Ethiopian
+	score 4.060038129744923
+Category NAME African
+	score 3.9908371957669075
+Category NAME Climbing
+	score 3.711942549241099
+
+User ID 70628 top-5 results
+Category NAME Vegetarian
+	score 9.554335106106382
+Category NAME Vegan
+	score 7.247196445262753
+Category NAME Gastropubs
+	score 6.19949090529493
+Category NAME African
+	score 5.6897155599166975
+Category NAME Ethiopian
+	score 5.379921334593222
+
