@@ -69,3 +69,11 @@ In Part II, the goal is to perform association analysis among the attributes of 
 > **_(R2-3)_** To perform association analysis, transform the partial_user_category_rating from a vertical table to a horizontal table and save the result as a pandas DataFrame. The DataFrame should have user id as the index and the bundle names as column names. If partial_user_category_rating contains rating information for a user and a category, store 1; otherwise, store 0. Each user in the stored DataFrame will play the role of a transaction in the association analysis, and each category will serve as an item.
 > 
 > You can use an SQL query statement or the pandas library to create the horizontal table. Save the resulting horizontal table as DMA_project2_team##_part2_horizontal.pkl.
+
+> **_(R2-4)_** Using the DataFrame created in R2-3, generate frequent itemsets that satisfy the following conditions and perform association analysis. Additionally, provide a brief qualitative and quantitative evaluation of the results.
+> - Minimum support for frequent itemsets: 0.15
+> - Association analysis metric: lift (output itemsets with lift values greater than or equal to 3)
+> 
+> Save the results as DMA_project2_team##_part2_association.csv & .pkl.
+
+### <ins>PART III. Recommendation System</ins>
