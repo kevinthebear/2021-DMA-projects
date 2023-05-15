@@ -77,3 +77,26 @@ In Part II, the goal is to perform association analysis among the attributes of 
 > Save the results as DMA_project2_team##_part2_association.csv & .pkl.
 
 ### <ins>PART III. Recommendation System</ins>
+In Part III, the objective is to implement a recommendation system that recommends categories to users. R3-1 involves writing a function that returns score prediction results, while R3-2 to R3-4 focus on implementing the recommendation system. The "surprise" library will be used for this purpose.
+
+> **_(R3-1)_** Write a get_top_n function that returns the top-n score prediction results.
+
+> **_(R3-2)_** For a total of 5 users: ['20384', '33306', '46833', '70628', '535'], use the following algorithms and similarity measures to generate recommendation results for the top-5 categories and output them to text files:
+> - Algorithm: KNNBasic, Similarity: Cosine, File Name: 3-2-1.txt
+> - Algorithm: KNNWithMeans, Similarity: Pearson, File Name: 3-2-2.txt
+>
+> Additionally, for User-based recommendation, apply various algorithms and similarity measures, and submit the model that shows the best performance based on cross-validation (k=5, random_state=0).
+
+> **_(R3-3)_** For a total of 5 bundles: ['Irish', 'Ethiopian', 'Wine Bars', 'Vegetarian', 'Sushi Bars'], use the following algorithms and similarity measures to generate recommendation results for the top-10 users and output them to text files:
+> - Algorithm: KNNBasic, Similarity: Cosine, File Name: 3-3-1.txt
+> - Algorithm: KNNWithMeans, Similarity: Pearson, File Name: 3-3-2.txt
+>
+> Additionally, for Item-based recommendation, apply various algorithms and similarity measures, and submit the model that shows the best performance based on cross-validation (k=5, random_state=0)
+
+> **_(R3-4)_** For a total of 5 users: ['20384', '33306', '46833', '70628', '535'], use the following algorithms to generate recommendation results for the top-5 categories and output them to text files:
+> - Algorithm: SVD(n_factors=100, n_epoch=20, biased=False), File Name: 3-4-1.txt
+> - Algorithm: SVD(n_factors=200, n_epoch=20, biased=True), File Name: 3-4-2.txt
+> - Algorithm: SVD++(n_factors=100, n_epoch=20), File Name: 3-4-3.txt
+> - Algorithm: SVD++(n_factors=200, n_epoch=20), File Name: 3-4-4.txt
+>
+> Additionally, for Matrix-based recommendation, apply various algorithms and similarity measures, and submit the model that shows the best performance based on cross-validation (k=5, random_state=0).
