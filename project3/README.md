@@ -47,9 +47,7 @@ PART II requires implementing a model to classify and cluster English newspaper 
 > - Additional data obtained through crawling, modifying files, or using only part of the provided dataset is not allowed.
 > - The trained models for each category should be saved as a pickle file and submitted along with the code.
 >> - 2-1-1. Naïve Bayes Classifier
-15 points: the number of correctly classified articles out of 30 * 0.5
 >> - 2-1-2. SVM
-15 points: the number of correctly classified articles out of 30 * 0.5
 
 > **_(R2-2)_** English newspaper article clustering
 > - K-means Clustering
