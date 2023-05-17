@@ -6,7 +6,7 @@ Website A is a platform where customers write reviews about businesses. The webs
 **PART II** - *DB Implementation & Data Entry*  
 
 ### <ins>PART I. ER Diagram Visualization</ins>
-PART I aims to visualize the ER diagram for the database used by website A. website A's database should satisfy the following requirements:
+PART I aims to visualize the ER diagram for the database used by website A. Website A's database should satisfy the following requirements:
 
 > **_(R1-1)_** Website A stores information about registered users (customers) on the site. Users can write reviews or tips after using a business. Customer information should include a unique ID assigned by the site, the start date of site usage, the average rating of reviews they have written, the number of times other users have rated their reviews as interesting, useful, or accurate, and the number of users who have marked them as a fan.
 
